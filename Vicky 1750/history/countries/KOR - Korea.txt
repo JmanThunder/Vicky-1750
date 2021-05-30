@@ -3,9 +3,10 @@ primary_culture = korean
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.06
-non_state_culture_literacy = 0.03
+nationalvalue = nv_tradition
+literacy = 0.03
+non_state_culture_literacy = 0.01
+prestige = 1
 
 slavery = yes_slavery
 upper_house_composition = appointed
@@ -24,7 +25,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = KOR_reactionary
+# New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = closed_borders
+centralization = federalism
+colonial_policy = no_colonies 
+
+set_country_flag = mahayana_country
+
+ruling_party = KOR_conservative_2
 upper_house = {
 	fascist = 0
 	liberal = 18
@@ -35,10 +48,13 @@ upper_house = {
 	communist = 0
 }
 
- 
+govt_flag = { government = hms_government flag = democracy }
+govt_flag = { government = semi_constitutional_empire flag = democracy }
+govt_flag = { government = constitutional_empire flag = democracy }
 
 foreign_weapons = yes_foreign_weapons
-admin_reform = yes_admin_reform
+land_reform = yes_land_reform
+monetary_reform = yes_monetary_reform
 
 # Technologies
 flintlock_rifles = 1
@@ -46,6 +62,15 @@ flintlock_rifles = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 oob = "KOR_oob.txt"
 1861.1.1 = {

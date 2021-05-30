@@ -1,13 +1,14 @@
-capital = 1853
-primary_culture = amhara
-culture = tigray
-culture = oromo
+capital = 1857
+primary_culture = tigray
+culture = amhara
+culture = cushitic
+culture = nilotic
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.08
-non_state_culture_literacy = 0.05
+nationalvalue = nv_tradition
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 # Political reforms
 slavery = yes_slavery
@@ -28,6 +29,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+# New Reforms
+conscription = no_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = coptic_country
+
 ruling_party = TIG_conservative
 upper_house = {
 	fascist = 0
@@ -39,18 +52,18 @@ upper_house = {
 	communist = 0
 }
 
- 
-
-foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
 
 # Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TIG_oob.txt"
-

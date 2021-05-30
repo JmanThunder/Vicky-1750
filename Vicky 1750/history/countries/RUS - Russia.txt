@@ -3,18 +3,20 @@ primary_culture = russian
 culture = byelorussian
 culture = ukrainian
 culture = ugrian
+culture = volga_german
+culture = alaskan
 religion = orthodox
-government = absolute_monarchy
-plurality = 25.0
-nationalvalue = nv_order
-literacy = 0.10
-non_state_culture_literacy = 0.07
+government = absolute_empire
+plurality = 5.0
+nationalvalue = nv_autocracy
+literacy = 0.04
+non_state_culture_literacy = 0.01
 civilized = yes
 
 set_country_flag = serfdom_not_abolished
 
 #GreaterPowers = prestige
-prestige = 80
+prestige = 120
 
 # Political reforms
 slavery = no_slavery
@@ -35,6 +37,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+#New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = closed_borders
+centralization = regionalism
+colonial_policy = settlement
+
+set_country_flag = orthodox_country
+
 ruling_party = RUS_conservative
 upper_house = {
 	fascist = 0
@@ -45,6 +59,13 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+decision = RUS_setup_1836
+decision = mazovia_rename_russian
+decision = west_galicia_rename_russian
+decision = lithuania_rename
+decision = bessarabia_rename_rus
+decision = latvia_rename
 
 # Technologies
 post_napoleonic_thought = 1
@@ -66,20 +87,25 @@ private_banks = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
+piston_steam_engine = 1
+#hot_blast = 1
 
 #Inventions
 #corvettes = yes
-commerce_raiders = yes
 
 # Starting Consciousness
-consciousness = 3
+consciousness = 1
 nonstate_consciousness = 1
 
 schools = culture_tech_school
+
+govt_flag = {
+	government = hms_government
+	flag = theocracy
+}
 
 oob = "RUS_oob.txt"
 1861.1.1 = {
@@ -92,7 +118,8 @@ oob = "RUS_oob.txt"
 	set_country_flag = eastern_christians_up_in_here_yall
 	set_country_flag = peking_convention
 	set_country_flag = shimoda_treaty
-	decision = russian_vladivostok
+	set_global_flag = 2nd_caucasian_war
+    decision = russian_vladivostok
 	ruling_party = RUS_reactionary
 	plurality = 60
 	literacy = 0.15
@@ -142,11 +169,11 @@ oob = "RUS_oob.txt"
 	introspectionism = 1
 	associationism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	mechanical_production = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	basic_chemistry = 1
@@ -167,7 +194,7 @@ oob = "RUS_oob.txt"
 	wage_reform = no_minimum_wage
 	work_hours = no_work_hour_limit
 	safety_regulations = no_safety
-	health_care =trinket_health_care
+	health_care = trinket_health_care
 	unemployment_subsidies = no_subsidies
 	pensions = no_pensions 
 	school_reforms = no_schools

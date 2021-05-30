@@ -2,7 +2,7 @@ capital = 657
 primary_culture = romanian
 culture = hungarian
 culture = north_german
-religion = catholic
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -16,7 +16,7 @@ upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = censored_press
-trade_unions = non_socialist
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 
@@ -28,6 +28,21 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
+
+# New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = orthodox_country
+
+govt_flag = { government = colonial_company flag = absolute_monarchy }
+govt_flag = { government = dominion flag = absolute_monarchy }
 
 ruling_party = SIE_conservative
 upper_house = {

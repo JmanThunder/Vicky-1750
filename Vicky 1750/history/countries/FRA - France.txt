@@ -1,18 +1,21 @@
 capital = 425
 primary_culture = french
-culture = french_canadian
 culture = occitan
-culture = wallonian
+culture = picard
+culture = breton
+culture = arpitan
+culture = cajun
+culture = french_canadian
 religion = catholic
 government = hms_government
 plurality = 25
-nationalvalue = nv_equality
-literacy = 0.60
-non_state_culture_literacy = 0.15
+nationalvalue = nv_liberty
+literacy = 0.50
+non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 90
+prestige = 120
 
 # Political reforms
 slavery = yes_slavery
@@ -32,6 +35,18 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+#New Reforms
+conscription = one_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = exploitation
+
+set_country_flag = catholic_country
 
 # Technologies
 post_napoleonic_thought = 1
@@ -56,28 +71,29 @@ late_enlightenment_philosophy = 1
 malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 experimental_railroad = 1
 basic_chemistry = 1
 stock_exchange = 1
 ad_hoc_money_bill_printing = 1
-market_structure = 1
 romanticism = 1
-practical_steam_engine = 1
-mechanical_production = 1
+interchangeable_parts = 1
+high_pressure_steam_engine = 1
+late_classical_theory = 1
 
 # Inventions
 #corvettes = yes
-commerce_raiders = yes
+gendarmerie = yes
+secularization = yes
+social_conscience = yes
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
 
 ruling_party = FRA_conservative
-set_country_flag = tory_election_win
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -90,8 +106,22 @@ upper_house = {
 }
 
 schools = culture_tech_school
+decision = france_1836_setup
+decision = lorraine_rename
+
+set_country_flag = france
 
 oob = "FRA_oob.txt"
+
+foreign_investment = {
+	PAP = 15000
+	SAR = 10000
+	BEL = 20000
+}
+
+govt_flag = { government = hms_government flag = theocracy }
+govt_flag = { government = prussian_constitutionalism flag = theocracy }
+govt_flag = { government = absolute_monarchy flag = theocracy }
 
 1861.1.1 = {
 	oob = "/1861/FRA_oob.txt"
@@ -99,10 +129,7 @@ oob = "FRA_oob.txt"
 	plurality = 65
 	literacy = 0.65
 	non_state_culture_literacy = 0.15
-	
-	foreign_investment = {
-		PAP = 8000
-	}
+
 	
 	decision = support_french_foreign_legion
 	set_country_flag = cochinchina_campaign
@@ -129,7 +156,6 @@ pensions = no_pensions
 school_reforms = no_schools	
 
 ruling_party = FRA_reactionary
-clr_country_flag = tory_election_win
 government = presidential_dictatorship
 upper_house = {
 	fascist = 0
@@ -196,15 +222,14 @@ upper_house = {
 	associationism = 1
 	phenomenalism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	high_n_low_pressure_steam_engines = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
-	cheap_iron = 1
+	semi_automatization = 1
+    regenerative_furnaces = 1
+	hot_blast = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

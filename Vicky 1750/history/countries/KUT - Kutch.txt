@@ -3,7 +3,7 @@ primary_culture = gujarati
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.02
 non_state_culture_literacy = 0.01
 
@@ -26,6 +26,17 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+# New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
 ruling_party = KUT_conservative
 upper_house = {
 	fascist = 0
@@ -37,7 +48,7 @@ upper_house = {
 	communist = 0
 }
 
- 
+set_country_flag = sunni_country
 
 foreign_weapons = yes_foreign_weapons
 
@@ -45,6 +56,12 @@ foreign_weapons = yes_foreign_weapons
 flintlock_rifles = 1
 
 # Inventions
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0

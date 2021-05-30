@@ -9,7 +9,7 @@ literacy = 0.13
 civilized = yes
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
@@ -27,6 +27,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+
+#New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+
 ruling_party = ATR_conservative
 last_election = 1834.1.1
 upper_house = {
@@ -38,4 +51,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-

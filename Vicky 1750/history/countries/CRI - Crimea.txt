@@ -5,6 +5,7 @@ government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order
 literacy = 0.1
+civilized = yes
 
 ruling_party = CRI_conservative
 upper_house = {
@@ -17,7 +18,7 @@ upper_house = {
 	communist = 0
 }
 
-
+set_country_flag = sunni_country
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -35,3 +36,15 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+#New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+

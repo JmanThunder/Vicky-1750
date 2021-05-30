@@ -1,12 +1,12 @@
 capital = 2190
 primary_culture = central_american
-culture = afro_caribbean
-culture = british
+culture = kreol
 religion = protestant
-government = democracy
+government = colonial_company
 plurality = 0.1
 nationalvalue = nv_liberty
 literacy = 0.55
+civilized = yes
 
 # Political reforms
 slavery = no_slavery
@@ -27,7 +27,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-set_country_flag = civilize_after_release
+#New Reforms
+conscription = no_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = protestant_country
+set_country_flag = new_world_nation
 
 ruling_party = JAM_liberal
 upper_house = {

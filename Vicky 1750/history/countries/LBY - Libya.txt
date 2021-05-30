@@ -5,7 +5,7 @@ culture = tuareg
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_autocracy
 literacy = 0.03
 non_state_culture_literacy = 0
 
@@ -28,10 +28,21 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-set_country_flag = civilize_after_release
-set_country_flag = post_colonial_country
+#New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
 
-ruling_party = TRI_conservative
+
+set_country_flag = post_colonial_country
+set_country_flag = sunni_country
+
+ruling_party = CYR_conservative
 upper_house = {
 	fascist = 0
 	liberal = 22
@@ -41,4 +52,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-

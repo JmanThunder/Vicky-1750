@@ -3,9 +3,9 @@ primary_culture = vietnamese
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.04
-non_state_culture_literacy = 0.02
+nationalvalue = nv_tradition
+literacy = 0.02
+non_state_culture_literacy = 0.01
 
 # Political reforms
 slavery = yes_slavery
@@ -26,6 +26,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+#New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = mahayana_country
+
 ruling_party = DAI_conservative
 upper_house = {
 	fascist = 0
@@ -37,20 +49,30 @@ upper_house = {
 	communist = 0
 }
 
- 
 
 foreign_weapons = yes_foreign_weapons
-military_constructions = yes_military_constructions
+monetary_reform = yes_monetary_reform
 
 # Technologies
 flintlock_rifles = 1
-post_napoleonic_thought = 1
 
 # Inventions
+#bottling_process = yes
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
+consciousness = 3
+nonstate_consciousness = 6
+
+govt_flag = {
+	government = presidential_dictatorship
+	flag = fascist_dictatorship
+}
 
 oob = "DAI_oob.txt"
 1861.1.1 = {
@@ -67,5 +89,6 @@ oob = "DAI_oob.txt"
 	post_napoleonic_thought = 1
 
 	# Inventions
+#bottling_process = yes
 
 }

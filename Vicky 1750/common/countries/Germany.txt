@@ -1,6 +1,7 @@
-color = { 77 93 83 }
-fascist_dictatorship = { 40 40 40}
-proletarian_dictatorship = { 238 221 130}
+color = { 147 130 110 }
+fascist_dictatorship = { 40 40 40 }
+proletarian_dictatorship = { 225 0 0 }
+democracy = { 204 204 204 }
 graphical_culture = PrussianGC
 
 
@@ -11,6 +12,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -25,6 +27,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -39,6 +42,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -53,6 +57,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -67,6 +72,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -81,6 +87,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -95,6 +102,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -109,6 +117,7 @@ party = {
 
 	ideology = reactionary
 
+	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -123,6 +132,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -137,6 +147,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -151,6 +162,7 @@ party = {
 
 	ideology = anarcho_liberal
 
+	social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -165,6 +177,7 @@ party = {
 
 	ideology = communist
 
+	social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -174,11 +187,12 @@ party = {
 
 party = {
 	name = "GER_fascist"
-	start_date = 1840.4.1
-	end_date = 3000.1.1
+	start_date = 1900.1.1
+	end_date = 2000.1.1
 
 	ideology = fascist
 
+	social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism

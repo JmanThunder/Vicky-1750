@@ -3,14 +3,14 @@ primary_culture = persian
 culture = azerbaijani
 culture = hazara
 religion = shiite
-government = absolute_monarchy
+government = absolute_empire
 plurality = 0.0
-nationalvalue = nv_enlightenment
-literacy = 0.30
-non_state_culture_literacy = 0.05
+nationalvalue = nv_tradition
+literacy = 0.03
+non_state_culture_literacy = 0.01
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -28,6 +28,16 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+# New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = regionalism
+colonial_policy = no_colonies 
+
 ruling_party = PER_conservative
 upper_house = {
 	fascist = 0
@@ -39,16 +49,28 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = existing_country
+decision = persia_1836_setup
+set_country_flag = shiite_country
 
-foreign_training = yes_foreign_training
+foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
+monetary_reform = yes_monetary_reform
+
+govt_flag = {
+	government = absolute_empire
+	flag = theocracy
+}
 
 # Technologies
-military_staff_system = 1
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
 
 # Inventions
+small_arms_production = yes
+ammunition_production = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0

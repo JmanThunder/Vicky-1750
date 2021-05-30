@@ -3,10 +3,12 @@ primary_culture = dutch
 culture = flemish
 religion = protestant
 government = absolute_monarchy
-plurality = 30
-nationalvalue = nv_liberty
-literacy = 0.60
+plurality = 15.0
+nationalvalue = nv_productivity
+literacy = 0.70
 civilized = yes
+
+#GreaterPowers = prestige
 prestige = 10
 
 # Political reforms
@@ -28,6 +30,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = exploitation
+
+set_country_flag = protestant_country
+set_country_flag = cultuurstelsel
+
 ruling_party = HOL_conservative
 upper_house = {
 	fascist = 0
@@ -38,6 +53,9 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+decision = literacy_NET
+decision = DIM_cultuurstelsel
 
 # Technologies
 post_napoleonic_thought = 1
@@ -61,9 +79,9 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
 
 #Inventions
@@ -155,14 +173,14 @@ school_reforms = acceptable_schools
 	introspectionism = 1
 	associationism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	high_n_low_pressure_steam_engines = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	semi_automatization = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

@@ -11,9 +11,9 @@ civilized = yes
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
-public_meetings = yes_meeting
-press_rights = free_press
-trade_unions = non_socialist
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 
@@ -26,7 +26,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = HON_liberal
+# New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+
+ruling_party = HON_conservative
 upper_house = {
 	fascist = 0
 	liberal = 53
@@ -36,6 +48,8 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+set_country_flag = new_world_nation
 
 # Technologies
 post_napoleonic_thought = 1
@@ -50,8 +64,8 @@ guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
-water_wheel_power = 1
-publishing_industry = 1
+piston_steam_engine = 1
+mechanical_production = 1
 
 # Inventions
 
@@ -61,7 +75,6 @@ nonstate_consciousness = 0
 1861.1.1 = {
 	oob = "/1861/HON_oob.txt"
 	plurality = 50
-	 
 }
 1861.1.1 = {
 # Technologies
@@ -94,10 +107,10 @@ nonstate_consciousness = 0
 	ideological_thought = 1
 	introspectionism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
-	mechanized_mining = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	mechanical_production = 1
+    hot_blast = 1
 	experimental_railroad = 1
 	basic_chemistry = 1
 	medicine = 1

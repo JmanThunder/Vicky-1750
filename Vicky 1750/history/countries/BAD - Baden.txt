@@ -3,7 +3,7 @@ primary_culture = south_german
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.8
 civilized = yes
 prestige = 5
@@ -27,6 +27,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+
+#New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+
 ruling_party = BAD_conservative_2
 upper_house = {
 	fascist = 0
@@ -38,7 +51,6 @@ upper_house = {
 	communist = 0
 }
 
- 
 
 # Technologies
 post_napoleonic_thought = 1
@@ -48,9 +60,6 @@ military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
@@ -61,9 +70,9 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
 
 #Inventions
@@ -125,13 +134,13 @@ oob = "BAD_oob.txt"
 	associationism = 1
 	phenomenalism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	semi_automatization = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

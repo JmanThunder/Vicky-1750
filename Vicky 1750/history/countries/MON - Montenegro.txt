@@ -1,12 +1,13 @@
 capital = 2583
 primary_culture = serb
 religion = orthodox
-government = absolute_monarchy
+government = theocracy
 plurality = 25.0
-nationalvalue = nv_equality
-literacy = 0.1
+nationalvalue = nv_autocracy
+literacy = 0.04
+non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 1
+prestige = 4
 
 
 # Political reforms
@@ -28,6 +29,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+# New Reforms
+conscription = one_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = orthodox_country
+
 ruling_party = MON_conservative
 upper_house = {
 	fascist = 0
@@ -39,7 +52,6 @@ upper_house = {
 	communist = 0
 }
 
- 
 
 # Technologies
 post_napoleonic_thought = 1
@@ -54,14 +66,17 @@ guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
-water_wheel_power = 1
-publishing_industry = 1
+piston_steam_engine = 1
+mechanical_production = 1
 
 # Inventions
 
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
+
+set_country_flag = theocratic_government
+
 
 oob = "MON_oob.txt"
 1861.1.1 = {
@@ -103,10 +118,10 @@ oob = "MON_oob.txt"
 	ideological_thought = 1
 	introspectionism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
-	mechanized_mining = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	mechanical_production = 1
+    hot_blast = 1
 	experimental_railroad = 1
 	basic_chemistry = 1
 	medicine = 1

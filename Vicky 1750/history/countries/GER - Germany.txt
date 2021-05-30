@@ -1,12 +1,14 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
+culture = volga_german
 religion = protestant
 government = absolute_monarchy
 plurality = 0.15
 nationalvalue = nv_order
 literacy = 0.87
 civilized = yes
+is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -27,6 +29,19 @@ unemployment_subsidies = low_subsidies
 pensions = good_pensions 
 school_reforms = no_schools
 
+
+# New Reforms
+conscription = mandatory_service
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = federalism
+colonial_policy = no_colonies 
+
+set_country_flag = protestant_country
+
 ruling_party = GER_conservative
 upper_house = {
 	fascist = 0
@@ -40,8 +55,4 @@ upper_house = {
 
 schools = army_tech_school
 
-1861.1.1 = {
-# Technologies
 
-#Inventions
-}

@@ -4,7 +4,7 @@ religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.45
+literacy = 0.20
 civilized = yes
 prestige = 5
 
@@ -28,6 +28,18 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+# New Reforms
+conscription = no_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+
 ruling_party = MOD_reactionary
 upper_house = {
 	fascist = 0
@@ -39,7 +51,6 @@ upper_house = {
 	communist = 0
 }
 
- 
 
 # Technologies
 post_napoleonic_thought = 1
@@ -62,9 +73,9 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
 
 #Inventions
@@ -93,11 +104,11 @@ oob = "MOD_oob.txt"
 	malthusian_thought = 1
 	enlightenment_thought = 1
 	introspectionism = 1
-	water_wheel_power = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
 	mechanical_production = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	interchangeable_parts = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	basic_chemistry = 1
 	medicine = 1
 	post_nelsonian_thought = 1
@@ -109,14 +120,14 @@ oob = "MOD_oob.txt"
 #Inventions
 	john_ramsay_mcculloch = yes
 	nassau_william_sr = yes
-	james_mill = yes
+    #james_mill = yes
 	ammunition_production = yes
 	small_arms_production = yes
 	explosives_production = yes
 	artillery_production = yes
 	building_station_shipyards = yes
 	vaccination = yes
-	genetics:_heredity = yes
+	genetics_heredity = yes
 	clinical_thermometers_and_binaural_stethoscopes = yes
 	pressure_chambers_for_thorax_surgery = yes
 	prophylaxis_against_malaria = yes
@@ -128,7 +139,7 @@ oob = "MOD_oob.txt"
 	sharp_n_roberts_power_loom = yes
 	mechanical_saw = yes
 	mechanical_precision_saw = yes
-	jacquard_power_loom = yes
+	dobby_loom = yes
 	coke = yes
 	mechanized_slaughtering_block = yes
 	northrop_power_loom = yes

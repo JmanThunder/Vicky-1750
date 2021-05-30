@@ -1,14 +1,15 @@
 capital = 619
 primary_culture = south_german
+culture = north_german
 religion = catholic
-government = absolute_monarchy
-plurality = 25.0
-nationalvalue = nv_order
+government = absolute_empire
+plurality = 10.0
+nationalvalue = nv_autocracy
 literacy = 0.45
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 70
+prestige = 100
 
 # Political reforms
 slavery = no_slavery
@@ -28,6 +29,48 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+
+#New Reforms
+conscription = one_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+set_country_flag = serfdom_not_abolished
+
+decision = AUS_setup_1836
+decision = slovene_rename_aus
+decision = banat_rename_aus
+decision = vojvodina_rename_aus
+decision = istria_rename_aus
+decision = southern_transylvania_rename_aus
+decision = northern_transylvania_rename_aus
+decision = slovakia_rename_aus
+decision = bohemia_rename_aus
+decision = sudetes_rename_aus
+decision = east_galicia_rename_german
+decision = galicia_rename_german
+decision = silesia_rename_german
+decision = transdanubia_rename_aus
+decision = central_hungary_rename_aus
+decision = german_tyrol
+decision = croatia_rename_aus
+decision = slavonia_rename_aus
+decision = dalmatia_rename_aus
+decision = german_lombardy
+decision = german_veneto
+decision = bukovina_rename_aus
+decision = burgenland_rename
+
+govt_flag = { government = hms_government flag = theocracy }
+govt_flag = { government = prussian_constitutionalism flag = theocracy }
+govt_flag = { government = absolute_monarchy flag = theocracy }
 
 ruling_party = AUS_conservative
 upper_house = {
@@ -61,19 +104,24 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
-practical_steam_engine = 1
 
 #Inventions
 
 # Starting Consciousness
-consciousness = 4
-nonstate_consciousness = 2
+consciousness = 1
+nonstate_consciousness = 3
 
 schools = army_tech_school
+
+foreign_investment = {
+		BAV = 7500
+		WUR = 5000
+		BAD = 5000
+}
 
 oob = "AUS_oob.txt"
 1861.1.1 = {
@@ -85,12 +133,6 @@ oob = "AUS_oob.txt"
 	plurality = 60
 	literacy = 0.60
 	non_state_culture_literacy = 0.15
-
-	foreign_investment = {
-		BAV = 7500
-		WUR = 5000
-		BAD = 5000
-	}
 
 # Technologies
 	post_napoleonic_thought = 1
@@ -140,13 +182,13 @@ oob = "AUS_oob.txt"
 	associationism = 1
 	phenomenalism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	semi_automatization = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

@@ -1,6 +1,6 @@
 capital = 781
-primary_culture = north_italian
-culture = croat
+primary_culture = croat
+culture = north_italian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
@@ -27,22 +27,27 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+#New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
+set_country_flag = catholic_country
+
 ruling_party = CRO_conservative
 upper_house = {
 	fascist = 0
 	liberal = 20
 	conservative = 65
-	reactionary = 10
-	anarcho_liberal = 5
+	reactionary = 15
+	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
-1861.1.1 = {
-	oob = "/1861/DLM_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
-}

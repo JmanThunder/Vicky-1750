@@ -1,5 +1,5 @@
 capital = 2513 # Dunedin
-primary_culture = british
+primary_culture = australian
 religion = protestant
 government = hms_government
 plurality = 0.88
@@ -27,6 +27,18 @@ unemployment_subsidies = low_subsidies
 pensions = low_pensions
 school_reforms = no_schools
 
+# New Reforms
+conscription = no_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = protestant_country
+
 ruling_party = SNZ_conservative
 upper_house = {
 	fascist = 0
@@ -37,3 +49,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+set_country_flag = new_world_nation

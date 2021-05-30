@@ -16,7 +16,7 @@ upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = free_press
-trade_unions = non_socialist
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 
@@ -28,6 +28,18 @@ health_care = low_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+# New Reforms
+conscription = one_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
 
 ruling_party = LUX_conservative
 upper_house = {
@@ -61,9 +73,9 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
 
 #Inventions
@@ -72,12 +84,10 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "LUX_oob.txt"
 1861.1.1 = {
 	oob = "/1861/LUX_oob.txt"
 	plurality = 60
 	literacy = 0.80
-	 
 }
 1861.1.1 = {
 # Technologies
@@ -134,15 +144,14 @@ oob = "LUX_oob.txt"
 	associationism = 1
 	phenomenalism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	high_n_low_pressure_steam_engines = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
-	cheap_iron = 1
+	semi_automatization = 1
+    regenerative_furnaces = 1
+	hot_blast = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

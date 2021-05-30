@@ -6,7 +6,7 @@ culture = malayalam
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.02
 
 # Political reforms
@@ -28,6 +28,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+#New Reforms
+conscription = one_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
+set_country_flag = hindu_country
+
 ruling_party = KRN_conservative
 upper_house = {
 	fascist = 0
@@ -38,3 +51,10 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes

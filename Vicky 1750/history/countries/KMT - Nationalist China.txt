@@ -1,4 +1,4 @@
-capital = 2221
+capital = 1616
 primary_culture = nanfaren
 culture = beifaren
 religion = mahayana
@@ -28,6 +28,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+# New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = closed_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
+set_country_flag = mahayana_country
+
 ruling_party = KMT_liberal_2
 upper_house = {
 	fascist = 0
@@ -38,3 +51,15 @@ upper_house = {
 	socialist = 0
 	communist = 25
 }
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
+
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
+flintlock_rifles = 1

@@ -1,14 +1,14 @@
 capital = 387
 primary_culture = wallonian
-culture = flemish
+culture = picard
 religion = catholic
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_liberty
-literacy = 0.5
+literacy = 0.45
 non_state_culture_literacy = 0.5 #Germans/Dutch
 civilized = yes
-prestige = 3
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -29,8 +29,22 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+#New Reforms
+conscription = mandatory_service
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = all_voting_pops
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = catholic_country
+set_global_flag = france_rename_arlon
+set_global_flag = france_rename_liege
+set_global_flag = france_rename_luxemburg
+
 ruling_party = BEL_conservative
-set_country_flag = tory_election_win
 last_election = 1834.1.1
 upper_house = {
 	fascist = 0
@@ -42,7 +56,7 @@ upper_house = {
 	communist = 0
 }
 
- 
+decision = france_rename_rhine
 
 # Technologies
 post_napoleonic_thought = 1
@@ -65,14 +79,18 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
+piston_steam_engine = 1
+mechanical_production = 1
+hot_blast = 1
 basic_chemistry = 1
-practical_steam_engine = 1
 experimental_railroad = 1
+high_pressure_steam_engine = 1
+interchangeable_parts = 1
+
+set_country_flag = is_belgium
 
 #Inventions
+gendarmerie = yes
 
 # Starting Consciousness
 consciousness = 4
@@ -87,8 +105,6 @@ oob = "BEL_oob.txt"
 }
 1861.1.1 = {
 ruling_party = BEL_liberal
-clr_country_flag = tory_election_win
-set_country_flag = liberal_election_win
 
 # Technologies
 	post_napoleonic_thought = 1
@@ -141,16 +157,15 @@ set_country_flag = liberal_election_win
 	associationism = 1
 	phenomenalism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	high_n_low_pressure_steam_engines = 1
-	publishing_industry = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
 	mechanical_production = 1
 	interchangeable_parts = 1
-	mechanized_mining = 1
-	clean_coal = 1
-	cheap_iron = 1
-	cheap_steel = 1
+	semi_automatization = 1
+    regenerative_furnaces = 1
+	hot_blast = 1
+    drilling_and_blasting = 1
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1

@@ -1,4 +1,8 @@
 color = { 236  236  236 }
+fascist_dictatorship = { 180 180 180 }
+proletarian_dictatorship = { 155 78 75 }
+presidential_dictatorship = { 155 78 75 }
+democracy = { 226 133 129 }
 graphical_culture = AustriaHungaryGC
 
 party = {
@@ -8,6 +12,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -22,6 +27,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -36,6 +42,7 @@ party = {
 
 	ideology = reactionary
 
+	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -50,6 +57,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -64,6 +72,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -78,6 +87,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -92,6 +102,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -106,6 +117,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -120,6 +132,7 @@ party = {
 
 	ideology = reactionary
 
+	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -134,6 +147,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -148,6 +162,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -162,6 +177,7 @@ party = {
 
 	ideology = communist
 
+	social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -176,6 +192,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -190,6 +207,7 @@ party = {
 
 	ideology = anarcho_liberal
 
+	social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -199,11 +217,12 @@ party = {
 
 party = {
 	name = "AUS_fascist"
-	start_date = 1905.1.1
+	start_date = 1900.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
 
+	social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism

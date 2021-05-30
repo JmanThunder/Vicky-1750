@@ -4,8 +4,9 @@ culture = tibetan
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.02
+nationalvalue = nv_tradition
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 ruling_party = KAS_conservative
 upper_house = {
@@ -21,6 +22,13 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+big_sail_ships = yes
+sail_ships_transport = yes
+big_sail_support = yes
 
 oob = "KAS_oob.txt"
 1861.1.1 = {
@@ -44,3 +52,15 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+# New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+set_country_flag = hindu_country

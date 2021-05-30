@@ -3,7 +3,7 @@ primary_culture = romanian
 religion = orthodox
 government = hms_government
 plurality = 0.08
-nationalvalue = nv_order
+nationalvalue = nv_autocracy
 literacy = 0.21
 civilized = yes
 
@@ -20,12 +20,25 @@ political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
-work_hours = twelve_hours
+work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = trinket_health_care
+health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = trinket_pensions 
+pensions = no_pensions 
 school_reforms = no_schools
+
+# New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
+set_country_flag = orthodox_country
 
 ruling_party = ROM_liberal
 upper_house = {
@@ -42,7 +55,6 @@ upper_house = {
 	oob = "/1861/ROM_oob.txt"
 	plurality = 60
 	prestige = 10
-	 
 }
 1861.1.1 = {
 # Technologies
@@ -85,11 +97,11 @@ upper_house = {
 	introspectionism = 1
 	associationism = 1
 	
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	publishing_industry = 1
-	mechanized_mining = 1
-	clean_coal = 1
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	mechanical_production = 1
+	hot_blast = 1
+    regenerative_furnaces = 1
 	experimental_railroad = 1
 	basic_chemistry = 1
 	medicine = 1

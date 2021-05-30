@@ -1,9 +1,16 @@
-color = { 194  123  47 }
-prussian_constitutionalism = { 247  44  15 }
+#color = { 194  53  60 }
+color = { 232  26  63 } 
+absolute_monarchy = { 194  123  47 }
+prussian_constitutionalism = { 232  26  63 } 
+hms_government = { 232  26  63 }
+absolute_empire = { 194  123  47 }
+semi_constitutional_empire = { 232  26  63 }
+constitutional_empire = { 232  26  63 }
 proletarian_dictatorship = { 199  67  44 }
-hms_government = { 244  121  158 }
 democracy = { 244  121  158 }
 fascist_dictatorship = { 248 51 22 }
+
+
 graphical_culture = JapaneseGC
 
 party = {
@@ -13,6 +20,7 @@ party = {
 
 	ideology = reactionary
 
+	social_policy = no_position_set
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -27,6 +35,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -41,6 +50,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -55,6 +65,7 @@ party = {
 
 	ideology = reactionary
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -69,6 +80,7 @@ party = {
 
 	ideology = conservative
 
+	social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -83,6 +95,7 @@ party = {
 
 	ideology = liberal
 
+	social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -97,6 +110,7 @@ party = {
 
 	ideology = socialist
 
+	social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -111,6 +125,7 @@ party = {
 
 	ideology = anarcho_liberal
 
+	social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -125,6 +140,7 @@ party = {
 
 	ideology = communist
 
+	social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -134,11 +150,12 @@ party = {
 
 party = {
 	name = "JAP_fascist"
-	start_date = 1905.1.1
+	start_date = 1900.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
 
+	social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism

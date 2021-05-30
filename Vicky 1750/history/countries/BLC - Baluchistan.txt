@@ -1,10 +1,11 @@
-capital = 1219
+capital = 1222
 primary_culture = baluchi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.02
+is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -25,7 +26,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-ruling_party = KAL_conservative
+
+#New Reforms
+conscription = four_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies 
+
+
+ruling_party = MAK_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15
@@ -36,3 +49,4 @@ upper_house = {
 	communist = 0
 }
 
+set_country_flag = sunni_country

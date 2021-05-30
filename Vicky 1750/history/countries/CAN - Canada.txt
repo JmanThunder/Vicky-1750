@@ -1,11 +1,11 @@
 capital = 57
 primary_culture = anglo_canadian
-culture = british
+#culture = british
 culture = french_canadian
 religion = protestant
-government = hms_government
+government = dominion
 plurality = 0.2
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
 
@@ -15,18 +15,31 @@ upper_house_composition = appointed
 vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
 press_rights = free_press
-trade_unions = all_trade_unions
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = gerrymandering
 
 # Social Reforms
-wage_reform = trinket_wage
-work_hours = twelve_hours
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
 safety_regulations = trinket_safety
 health_care = trinket_health_care
 unemployment_subsidies = trinket_subsidies
 pensions = no_pensions 
-school_reforms = no_schools
+school_reforms = low_schools
+
+#New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_restricted
+citizens_rights = culture_voting_only
+border_policy = quota_immigration
+centralization = federalism
+colonial_policy = no_colonies 
+
+set_country_flag = protestant_country
+set_country_flag = exempt_from_vassal_contribution
 
 ruling_party = CAN_conservative
 upper_house = {
@@ -39,8 +52,4 @@ upper_house = {
 	communist = 0
 }
 
-1861.1.1 = {
-# Technologies
-
-#Inventions
-}
+set_country_flag = new_world_nation
