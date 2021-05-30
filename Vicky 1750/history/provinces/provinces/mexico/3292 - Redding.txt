@@ -1,0 +1,4 @@
+owner = MEX
+controller = SPA
+trade_goods = timber
+life_rating = 38

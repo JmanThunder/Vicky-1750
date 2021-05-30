@@ -1,0 +1,357 @@
+#Bayrut Region  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre #now part of Israel-Palestine  arab-animist = druze 
+916 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 53
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 35
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 179
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 35
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 3284
+	}
+	clergymen = {
+		culture = arab
+		religion = orthodox
+		size = 17
+	}
+	artisans = {
+		culture = arab
+		religion = orthodox
+		size = 71
+	}
+	farmers = {
+		culture = arab
+		religion = orthodox
+		size = 1346
+	}
+	clergymen = {
+		culture = arab
+		religion = animist
+		size = 35
+	}
+	artisans = {
+		culture = arab
+		religion = animist
+		size = 143
+	}
+	farmers = {
+		culture = arab
+		religion = animist
+		size = 2692
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 35
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 71
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 1328
+	}
+}
+#Palestine Region  #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem
+917 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 143
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 35
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 53
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 71
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1651
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 125
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 5815
+	}
+	clergymen = {
+		culture = arab
+		religion = orthodox
+		size = 53
+	}
+	artisans = {
+		culture = arab
+		religion = orthodox
+		size = 592
+	}
+	farmers = {
+		culture = arab
+		religion = orthodox
+		size = 2225
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 35
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 628
+	}
+	farmers = {
+		culture = jewish
+		religion = judaism
+		size = 843
+	}
+}
+#Nablus
+918 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 71
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 735
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 5474
+	}
+	clergymen = {
+		culture = arab
+		religion = orthodox
+		size = 17
+	}
+	artisans = {
+		culture = arab
+		religion = orthodox
+		size = 89
+	}
+	farmers = {
+		culture = arab
+		religion = orthodox
+		size = 610
+	}
+	clergymen = {
+		culture = arab
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = arab
+		religion = animist
+		size = 71
+	}
+	farmers = {
+		culture = arab
+		religion = animist
+		size = 628
+	}
+}
+#Jaffa
+919 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 71
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 789
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 5420
+	}
+	clergymen = {
+		culture = arab
+		religion = orthodox
+		size = 17
+	}
+	artisans = {
+		culture = arab
+		religion = orthodox
+		size = 71
+	}
+	farmers = {
+		culture = arab
+		religion = orthodox
+		size = 628
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 17
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 215
+	}
+	farmers = {
+		culture = jewish
+		religion = judaism
+		size = 1202
+	}
+}
+#Gaza
+920 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 71
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 897
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 89
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 5313
+	}
+	clergymen = {
+		culture = arab
+		religion = orthodox
+		size = 17
+	}
+	artisans = {
+		culture = arab
+		religion = orthodox
+		size = 179
+	}
+	farmers = {
+		culture = arab
+		religion = orthodox
+		size = 1238
+	}
+}
+#Beersheba
+921 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 53
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 35
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 251
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 71
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 4613
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 17
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 17
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 53
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 17
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 1328
+	}
+}

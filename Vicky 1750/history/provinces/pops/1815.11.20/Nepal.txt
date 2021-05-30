@@ -1,0 +1,168 @@
+#Himalaya Region #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836  
+#Katmandu   
+1326 = {
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 7736
+	}
+	bureaucrats = {
+		culture = nepali
+		religion = hindu
+		size = 676
+	}
+	officers = {
+		culture = nepali
+		religion = hindu
+		size = 870
+	}
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 4254
+	}
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 15665
+	}
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 27076
+	}
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 333615
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 773
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 386
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1837
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 386
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 39163
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 1547
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 870
+	}
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 4061
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 773
+	}
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 81711
+	}
+}
+#Jumla   
+1327 = {
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 3481
+	}
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 1740
+	}
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 8896
+	}
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 4254
+	}
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 190499
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2707
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1450
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 7155
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1353
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 130448
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 1353
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 773
+	}
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 3674
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 773
+	}
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 70784
+	}
+}

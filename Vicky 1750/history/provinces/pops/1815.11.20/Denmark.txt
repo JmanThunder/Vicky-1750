@@ -1,0 +1,453 @@
+#Faroe Islands Region
+#Torshavn
+253 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 12
+	}
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 115
+	}
+	farmers = {
+		culture = icelandic
+		religion = protestant
+		size = 1348
+	}
+}
+#Jutland Region : 548000
+#Aarhus
+366 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 427
+	}
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 299
+	}
+	officers = {
+		culture = danish
+		religion = protestant
+		size = 171
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 320
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 2781
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 5991
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 30236
+	}
+}
+#Alborg
+367 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1711
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 427
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 26534 #5k moved to 2557
+	}
+}
+#Ribe
+368 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 941
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 427
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 15407 #10k moved to 2557
+	}
+}
+# Esbjerg
+2557 = {
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 684
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 64
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 171
+	}
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 20885
+	}
+}
+	
+	
+#Schleswig Region : 336000
+#Flensburg
+370 = {
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 85
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 106
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1283
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 12004
+	}
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 556
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 85
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 128
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 213
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 2139
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 427
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 33253
+	}
+}
+#Aabenra
+371 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 106
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 941
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 14230
+	}
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 85
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 213
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 42
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 5606
+	}
+}
+#Archipelago Region : 616000
+#Copenhagen
+372 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 813
+	}
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 325
+	}
+	officers = {
+		culture = danish
+		religion = protestant
+		size = 325
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 487
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 6505
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 6505
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 3903
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 6505
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 37080
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 715
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 715
+	}
+}
+#Odense
+373 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 427
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 213
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 2567
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 5991
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 20756
+	}
+}
+#Bornholm
+374 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 342
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 42
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 2995
+	}
+}
+#Augmagsalik
+2632 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 256
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 42
+	}
+	
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 42
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 16263
+	}
+}
+#Egedeshande
+2636 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 256
+	}
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 102
+	}
+	officers = {
+		culture = danish
+		religion = protestant
+		size = 102
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 154
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 2054
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 2054
+	}
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1232
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 2054
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 18557
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 225
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 225
+	}
+}

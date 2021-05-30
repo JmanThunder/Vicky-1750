@@ -1,0 +1,146 @@
+#Honduras Region
+#Ruled by Central America 1836
+#Tegucigapa
+2193 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 277
+		militancy = 2
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 36
+		militancy = 2
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 29
+		militancy = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 131
+		militancy = 2
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 657
+		militancy = 2
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 131
+		militancy = 2
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 11877
+		militancy = 2
+	}
+}
+#San Pedro Sula
+2194 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 160
+		militancy = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 65
+		militancy = 2
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 335
+		militancy = 2
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 65
+		militancy = 2
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 6088
+		militancy = 2
+	}
+}
+#La Ceiba
+2195 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 124
+		militancy = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 51
+		militancy = 2
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 248
+		militancy = 2
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 51
+		militancy = 2
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4489
+		militancy = 2
+	}
+}
+#Puerto Lempira
+2196 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 21
+		militancy = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 14
+		militancy = 2
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 43
+		militancy = 2
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 7
+		militancy = 2
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 788
+		militancy = 2
+	}
+}

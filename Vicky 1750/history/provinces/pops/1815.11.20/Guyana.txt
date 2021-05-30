@@ -1,0 +1,153 @@
+#Guyana
+#Ruled by Britain 1836
+#Georgetown
+2239 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 151
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 75
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 37
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 530
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 37
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 151
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 113
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1060
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 227
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 19813
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 37
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 75
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 22
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1363
+	}
+}
+#Essequibo
+2243 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 75
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 37
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 151
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 37
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 75
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 113
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 454
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 113
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12956
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 37
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 75
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 22
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1363
+	}
+}

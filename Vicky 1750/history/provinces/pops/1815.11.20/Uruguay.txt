@@ -1,0 +1,189 @@
+#Uruguay Region  
+#Under rule of Uruguay 1836
+#Montevideo
+2344 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 123
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 210
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 236
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 4320
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 53
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 10
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 677
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 322
+	}
+}
+#Paysandu
+2345 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 96
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 236
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1564
+	}
+}
+#Tacumba
+2346 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 387
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 198
+	}
+}
+#Melo
+2347 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 32
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 236
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1171
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 32
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 596
+	}
+}

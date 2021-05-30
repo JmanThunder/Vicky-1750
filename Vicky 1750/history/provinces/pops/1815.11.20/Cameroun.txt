@@ -1,0 +1,516 @@
+#Cameroun Region
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala
+1956 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1300
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = animist
+		size = 40
+	}
+	officers = {
+		culture = african_minor
+		religion = animist
+		size = 120
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 660
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2640
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 660
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 48980
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 11200
+	}
+}
+#Buea
+1957 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 860
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 440
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1800
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 440
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 31660
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 9600
+	}
+}
+#Kribi
+1958 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 400
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 200
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 840
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 220
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 16740
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2400
+	}
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 260
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 140
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 580
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 140
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 9280
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 4000
+	}
+}
+#Sanaga-Kadei Region
+#uncolonized in 1836
+#Yaounde
+1959 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 420
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 220
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 900
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 220
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 13440
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 7200
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 920
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 460
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1860
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 480
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 31480
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 11200
+	}
+}
+#Bafoussam
+1960 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1100
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 560
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2220
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 560
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 35560
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 15200
+	}
+}
+#Bertoua
+1962 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 980
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 500
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 2000
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 500
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 27220
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 13600
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 260
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 140
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 580
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 140
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 8480
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4800
+	}
+}
+#Kwararafa Region #see Nigeria.txt for balance of region   
+#uncolonized in 1836
+#Bamenda #now part of Cameroun
+1961 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1480
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 760
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2980
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 760
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 50860
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 17600
+	}
+}
+#Adamawa Region #see Nigeria.txt for balance of region   
+#under the rule of Sokoto 1836
+#Ngaoundere #now part of Cameroun
+1963 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 400
+	}
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 20
+	}
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 60
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 200
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 840
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 220
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 15860
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 220
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 120
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 460
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 120
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 10280
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3200
+	}
+}
+#uncolonized/under the rule of Borno 1836
+#Maroua #now part of Cameroun
+1964 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 140
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 160
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 140
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 80
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4280
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 40
+	}
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 40
+	}
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 160
+	}
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 40
+	}
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 2920
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 60
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 40
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 40
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3660
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 140
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 80
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 360
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 80
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 6620
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2400
+	}
+}

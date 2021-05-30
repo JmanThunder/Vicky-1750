@@ -1,0 +1,1574 @@
+#New South Wales Region 144000
+#Ruled by Britain 1836
+#Sydney
+2468 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 13
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 26
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 1429
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 448
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1797
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 204
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1010
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 102
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1905
+	}
+}
+#Newcastle
+2469 = {
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 3.4
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 34.0
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 6.8
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 227.2
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1.2
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 6.8
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 130.6
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1991
+	}
+}
+#Port Macquarie
+2470 = {
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 153
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 2382
+	}
+}
+#Eden
+2472 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 612
+	}
+}
+#Wagga Wagga
+2473 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1191
+	}
+	
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 153
+	}
+}
+#uncolonized in 1836
+#Ophir
+2471 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1191
+	}
+}
+#Moree
+2474 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 102
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1786
+	}
+}
+#Broken Hill
+2475 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 102
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1157
+	}
+	
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 214
+	}
+}
+#Victoria Region - 44000
+#uncolonized in 1836
+#Melbourne
+2476 = {
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 71
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 22
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 89
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 918
+	}
+}
+#Warnambool
+2477 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 595
+	}
+}
+#Ballarat
+2478 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 595
+	}
+}
+#Sale
+2479 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 595
+	}
+}
+#Beechworth
+2480 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Swan Hill
+2481 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Tasmania Region
+#ruled by Britain 1836
+#Hobart
+2482 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 2
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 93
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 357
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 20
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 425
+	}
+}
+#Launceston
+2603 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 0
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 35
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 138
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 355
+	}
+}
+#Devonport
+2508 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 0
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 23
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 97
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 255
+	}
+}
+#Queensland Region : 64000
+#ruled by Britain 1836
+#Brisbane
+2483 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 2382
+	}
+}
+#uncolonized in 1836
+#Gladstone
+2484 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 3063
+	}
+}
+#Clermont
+2485 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1905
+	}
+}
+#Toowoomba
+2486 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 3063
+	}
+}
+#Townsville
+2487 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 3063
+	}
+}
+#Cooktown
+2488 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 85
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 3777
+	}
+}
+#Longreach
+2489 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1905
+	}
+}
+#Charleville
+2490 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1905
+	}
+}
+#Normanton
+2604 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 2545
+	}
+}
+#South Australia Region - 32000
+#uncolonized in 1836
+#Adelaide
+2491 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 918
+	}
+}
+#Port Lincoln
+2492 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Robe
+2493 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Port Augusta
+2494 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Oodnadatta
+2495 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Tarcoola
+2496 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+}
+#Western Australia Region : 71000
+#ruled by Britain 1836
+#Perth
+2497 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 18
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 29
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 59
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1208
+	}
+}
+#Kojonup
+2498 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 18
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 36
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 983
+	}
+}
+#Geraldton
+2499 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1276
+	}
+}
+#Kalgoorlie
+2500 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 306
+	}
+	
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 13
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 859
+	}
+}
+#Broome
+2501 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1616
+	}
+}
+#Dampier
+2502 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 833
+	}
+}
+#Laverton
+2503 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 7
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 15
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1160
+	}
+}
+#Esperance
+2504 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 987
+	}
+}
+#Halls Creek
+2601 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 153
+	}
+	
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 758
+	}
+}
+#Roebourne
+2602 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 8
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 833
+	}
+}
+#Bunbury
+2605 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 7
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 4
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1072
+	}
+}
+#Northern Australia Region
+#uncolonized in 1836
+#Palmerston
+2505 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 51
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 85
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 170
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 3403
+	}
+}
+#Tennant Creek
+2506 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 68
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 2892
+	}
+}
+#Alice Springs
+2507 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 23
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 428
+	}
+	
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 2
+	}
+	artisans = {
+		culture = aborigine
+		religion = animist
+		size = 10
+	}
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 3
+	}
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1208
+	}
+}

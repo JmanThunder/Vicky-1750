@@ -1,0 +1,141 @@
+#Cyprus Region
+#under the rule of Ottoman Empire in 1836  
+#Nicosia
+855 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 334
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 60
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 60
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 91
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 607
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 212
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 3493
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 121
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 911
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 13547
+	}
+}
+#Limassol
+856 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 243
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 60
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 364
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 121
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1640
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 91
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 486
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10357
+	}
+}
+#Famagusta
+857 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 243
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 60
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 182
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 121
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 3037
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 91
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 486
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9142
+	}
+}

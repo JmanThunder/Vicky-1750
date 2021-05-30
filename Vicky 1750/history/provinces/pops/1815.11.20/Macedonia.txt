@@ -1,0 +1,175 @@
+#Macedonia Region #see Greece.txt and Bulgaria.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Skopje 
+806 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1256
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 166
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1025
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1538
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 12939
+	}
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 218
+	}
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1077
+	}
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 28970
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 102
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 615
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5950
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 12
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 359
+	}
+	farmers = {
+		culture = jewish
+		religion = judaism
+		size = 141
+	}
+}
+#Monastir Region #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Bitola 
+807 = {
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 153
+	}
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 218
+	}
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 18608
+	}
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 769
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 115
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 89
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 25
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 666
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 564
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1013
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 64
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 205
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 564
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 6296
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 89
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 128
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 4911
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 12
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 500
+	}
+}

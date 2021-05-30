@@ -1,0 +1,389 @@
+#------Transcaspian Oblast------
+#Ashkabad 
+1204 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 42
+	}
+	bureaucrats = {
+		culture = turkmen
+		religion = sunni
+		size = 42
+	}
+	officers = {
+		culture = turkmen
+		religion = sunni
+		size = 42
+	}
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 42
+	}
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 416
+	}
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 249
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 7480
+	}
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 2
+	}
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 2
+	}
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 2
+	}
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 2
+	}
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 20
+	}
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 12
+	}
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 358
+	}
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 14
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 9
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 256
+	}
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 7
+	}
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 4
+	}
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 133
+	}
+}
+#Krasnovodsk
+1205 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 21
+	}
+	bureaucrats = {
+		culture = turkmen
+		religion = sunni
+		size = 21
+	}
+	officers = {
+		culture = turkmen
+		religion = sunni
+		size = 21
+	}
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 21
+	}
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 207
+	}
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 124
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 3723
+	}
+	
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 6
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = sunni
+		size = 6
+	}
+	officers = {
+		culture = kazak
+		religion = sunni
+		size = 6
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 6
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 64
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 38
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1152
+	}
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 1
+	}
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 1
+	}
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 1
+	}
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 1
+	}
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 11
+	}
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 7
+	}
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 203
+	}
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 1
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 6
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 4
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 107
+	}
+}
+#Merv  
+1206 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 65
+	}
+	bureaucrats = {
+		culture = turkmen
+		religion = sunni
+		size = 65
+	}
+	officers = {
+		culture = turkmen
+		religion = sunni
+		size = 65
+	}
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 65
+	}
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 647
+	}
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 388
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 11646
+	}
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 11
+	}
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 7
+	}
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 199
+	}
+}
+#Dashhowuz
+1196 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 151
+	}
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 64
+	}
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 389
+	}
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 86
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 7964
+	}
+}

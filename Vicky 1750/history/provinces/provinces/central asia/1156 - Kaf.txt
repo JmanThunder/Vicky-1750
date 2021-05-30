@@ -1,0 +1,6 @@
+owner = NEJ
+controller = EGY
+add_core = NEJ
+add_core = HIL
+trade_goods = wool
+life_rating = 34

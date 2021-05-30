@@ -1,0 +1,411 @@
+#Bosnia Region
+#under the rule of Ottoman Empire in 1836
+#Sarajevo
+783 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 589
+	}
+	bureaucrats = {
+		culture = bosniak
+		religion = sunni
+		size = 249
+	}
+	officers = {
+		culture = bosniak
+		religion = sunni
+		size = 204
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 181
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 3629
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 340
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 14042
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 90
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1587
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 8302
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 68
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 431
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 3130
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 22
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 703
+	}
+	
+		aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 362
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 68
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 544
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 181
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 5194
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 136
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 499
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 13883
+	}
+}
+#Bihac
+784 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 362
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 158
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 680
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 226
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 14904
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 68
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 272
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 3289
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 45
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 181
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 2495
+	}
+}
+#Banja Luka
+785 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 453
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 45
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 725
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 272
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 3947
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 158
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 453
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 16628
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 68
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 136
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 3425
+	}
+}
+#Tuzla
+786 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 635
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 158
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 1043
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 408
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 13179
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 158
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 635
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 17354
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 68
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 226
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 4242
+	}
+}
+#Mostar
+788 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 408
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 45
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 544
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 226
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 3312
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 113
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 453
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 13043
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 45
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 181
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 5217
+	}
+}
+#Livno
+789 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 317
+	}
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 22
+	}
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 226
+	}
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 272
+	}
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 998
+	}
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 113
+	}
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 725
+	}
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 12771
+	}
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 136
+	}
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 589
+	}
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 14790
+	}
+}

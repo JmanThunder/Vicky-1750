@@ -1,0 +1,118 @@
+#Comoro Islands Region  
+#uncolonized in 1836/dohanated by sultan of Anjouan
+#Comoro Islands 
+2123 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 142.65
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 47.55
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 309.075
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 1046.1
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 3257.175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 95.1
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 47.55
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 285.3
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 47.55
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 5230.5
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2853.0
+	}
+}
+#Mayotte 
+2124 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 15
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 25
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 50
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 10
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 404
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 50
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 909
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 505
+	}
+}

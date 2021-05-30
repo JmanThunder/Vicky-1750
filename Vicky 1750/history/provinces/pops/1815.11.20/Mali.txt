@@ -1,0 +1,1053 @@
+#Mali Region  
+#uncolonized in 1836/ruled by Kingdom of Segu
+#Bamako
+1794 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 306
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 162
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 684
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 180
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 10923
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 252
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4596
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 90
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 252
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 54
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4596
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4326
+	}
+}
+#Segu
+1800 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 666
+	}
+	bureaucrats = {
+		culture = bambara
+		religion = animist
+		size = 54
+	}
+	officers = {
+		culture = bambara
+		religion = animist
+		size = 72
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 342
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 1405
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 360
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 24441
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 252
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4596
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 108
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 324
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 72
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 5930
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 7210
+	}
+}
+#Mourdiah
+1801 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 72
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 36
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 180
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 36
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 1838
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 72
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 36
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 216
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 3947
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 54
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 36
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 144
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 36
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 2613
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2163
+	}
+}
+#uncolonized in 1836/ruled by Sultan of Macina
+#Jenne
+1802 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 306
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 162
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 793
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 162
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 14438
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 162
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 378
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4326
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 108
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 72
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 360
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 72
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 6597
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4326
+	}
+}
+#Bambuk Region  
+#uncolonized in 1836/ruled by Kingdom of Segu
+#Kayes
+1795 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 36
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 90
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 18
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 1243
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 288
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 162
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 630
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 162
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 12455
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2884
+	}
+}
+#Nioro
+1796 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 162
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 378
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 90
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 5768
+	}
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 90
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 216
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 54
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 3190
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4326
+	}
+}
+#Kita
+1797 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 144
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 72
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 324
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 90
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 4416
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 72
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 36
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 180
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 2541
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4326
+	}
+}
+#Bure Region #see Guinea.txt and Ivory Coast.txt for balance of region 
+#uncolonized in 1836/under loose rule of Segu
+#Bourgouni
+1798 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 360
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 180
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 757
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 198
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 15086
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 36
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 108
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 18
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 1946
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 36
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 180
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 36
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3298
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2163
+	}
+}
+#Worodugu Region  #see Burkina.txt and Ivory Coast.txt for balance of region 
+#uncolonized in 1836/under loose rule of Segu
+#Sikasso
+1799 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 234
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 126
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 522
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 126
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 7642
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 18
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 36
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 72
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 18
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 1297
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 306
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 162
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 666
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 162
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 9517
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 10094
+	}
+}
+#Macina Region  
+#uncolonized in 1836/ruled by Sultan of Macina
+#Timbuktu
+1803 = {
+	aristocrats = {
+		culture = songhai
+		religion = sunni
+		size = 432
+	}
+	clergymen = {
+		culture = songhai
+		religion = sunni
+		size = 216
+	}
+	artisans = {
+		culture = songhai
+		religion = sunni
+		size = 901
+	}
+	soldiers = {
+		culture = songhai
+		religion = sunni
+		size = 234
+	}
+	farmers = {
+		culture = songhai
+		religion = sunni
+		size = 15519
+	}
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 198
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 108
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 414
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 108
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 6380
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 7931
+	}
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 7
+	}
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 18
+	}
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 36
+	}
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 10
+	}
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 648
+	}
+}
+#Bandiagara
+1804 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 162
+	}
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 36
+	}
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 54
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 108
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 414
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 108
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 5605
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 234
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 126
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 612
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 126
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 11157
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3605
+	}
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 216
+	}
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 126
+	}
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 793
+	}
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 144
+	}
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 13212
+	}
+	aristocrats = {
+		culture = senufo
+		religion = animist
+		size = 108
+	}
+	clergymen = {
+		culture = senufo
+		religion = animist
+		size = 54
+	}
+	artisans = {
+		culture = senufo
+		religion = animist
+		size = 288
+	}
+	soldiers = {
+		culture = senufo
+		religion = animist
+		size = 54
+	}
+	farmers = {
+		culture = senufo
+		religion = animist
+		size = 5263
+	}
+}
+#Gao #under Tuareg control 1836 
+1805 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 126
+	}
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 72
+	}
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 270
+	}
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 793
+	}
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1694
+	}
+	aristocrats = {
+		culture = songhai
+		religion = sunni
+		size = 252
+	}
+	clergymen = {
+		culture = songhai
+		religion = sunni
+		size = 144
+	}
+	artisans = {
+		culture = songhai
+		religion = sunni
+		size = 684
+	}
+	soldiers = {
+		culture = songhai
+		religion = sunni
+		size = 144
+	}
+	farmers = {
+		culture = songhai
+		religion = sunni
+		size = 12473
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4326
+	}
+}
+#Azawad Region  
+#uncolonized in 1836/dohanated by Tuareg
+#Taoudenni
+1806 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 18
+	}
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 36
+	}
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 72
+	}
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 18
+	}
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 937
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 360
+	}
+}
+#Tessalit
+1807 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 36
+	}
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 54
+	}
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 144
+	}
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 36
+	}
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1892
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 793
+	}
+}
+#Araouane
+2609 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 36
+	}
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 54
+	}
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 108
+	}
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 18
+	}
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1586
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 360
+	}
+}

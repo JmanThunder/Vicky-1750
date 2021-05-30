@@ -1,0 +1,506 @@
+#Hawaii Region
+#ruled by Hawaii in 1836
+#Hawaii
+658 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 450
+	}
+	bureaucrats = {
+		culture = polynesian
+		religion = protestant
+		size = 75
+	}
+	officers = {
+		culture = polynesian
+		religion = protestant
+		size = 25
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 250
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 1150
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 1100
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 20025
+	}
+	clergymen = {
+		culture = polynesian
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 100
+	}
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 2000
+	}
+}
+#uncolonized in 1836
+#Midway
+2623 = {
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+}
+#Central Polynesia Region
+#uncolonized in 1836
+#Line Islands
+686 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 125
+	}
+}
+#Palmyra Atoll
+2526 = {
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+}
+#Western Polynesia Region
+#uncolonized in 1836/ruled by the King of Tonga
+#Tonga
+2540 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 72
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 108
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 217
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 36
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 4286
+	}
+}
+#uncolonized in 1836
+#Ellice Islands
+2541 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 8
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 450
+	}
+}
+#Wallis & Futuna
+2542 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 35
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 675
+	}
+}
+#uncolonized in 1836/ruled by the king of Samoa
+#Upolu
+2543 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 187
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 93
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 609
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 140
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 10684
+	}
+}
+#Tutuila
+2544 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 20
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 103
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 30
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1854
+	}
+}
+#Central Polynesia Region
+#uncolonized in 1836
+#Rarotonga
+2545 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 69
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 209
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 41
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 3774
+	}
+}
+#Tongareva
+2546 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 225
+	}
+}
+#Tokelau
+2547 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 137
+	}
+}
+#Niue
+2548 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 455
+	}
+}
+#Eastern Polynesia Region
+#uncolonized in 1836
+#Tahiti
+801 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 460
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 306
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 1384
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 306
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 19081
+	}
+	
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 6153
+	}	
+}
+#Marquesas
+2551 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 151
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 151
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 367
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 90
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 6924
+	}
+}
+#Tuamotu Islands
+2553 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 151
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 213
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 460
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 90
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 2153
+	}
+	
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 6153
+	}
+}
+#Pitcairn Islands #british trade post - proclaimed colony 1838
+2552 = {
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 35
+	}
+}
+#Easter Island Region
+#uncolonized in 1836 #chilean trade post
+#Easter Island
+2336 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 35
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 675
+	}
+}

@@ -1,0 +1,7 @@
+owner = RUS
+controller = RUS
+add_core = CAU
+add_core = CCS
+trade_goods = wool
+life_rating = 37
+colonial = 2

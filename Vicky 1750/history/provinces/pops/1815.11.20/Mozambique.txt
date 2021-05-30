@@ -1,0 +1,1124 @@
+#Gaza Region
+#uncolonized in 1836
+#Maputo
+2049 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 274
+	}
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 240
+	}
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 1097
+	}
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 274
+	}
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 19376
+	}
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 3429
+	}
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 171
+	}
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 154
+	}
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 1200
+	}
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 171
+	}
+	farmers = {
+		culture = tonga
+		religion = animist
+		size = 6533
+	}
+	slaves = {
+		culture = tonga
+		religion = animist
+		size = 8916
+	}
+}
+#Chaimate
+2050 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 274
+	}
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 240
+	}
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 1097
+	}
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 274
+	}
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 15947
+	}
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 3429
+	}
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 205
+	}
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 257
+	}
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 1268
+	}
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 274
+	}
+	farmers = {
+		culture = tonga
+		religion = animist
+		size = 13083
+	}
+	slaves = {
+		culture = tonga
+		religion = animist
+		size = 10974
+	}
+}
+#Inhambane
+2051 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 102
+	}
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 85
+	}
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 411
+	}
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 6155
+	}
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 1371
+	}
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 205
+	}
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 205
+	}
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 960
+	}
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 274
+	}
+	farmers = {
+		culture = tonga
+		religion = animist
+		size = 12757
+	}
+	slaves = {
+		culture = tonga
+		religion = animist
+		size = 7544
+	}
+}
+#Massekisse
+2052 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 34
+	}
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 342
+	}
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 137
+	}
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 34
+	}
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 2503
+	}
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 240
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 257
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1234
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 274
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 27007
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 15569
+	}
+}
+#Zambezia Region
+#Ruled
+#Sena
+2053 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 137
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 41
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 61
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 754
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 102
+	}
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 480
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 4012
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 5487
+	}
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 171
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 137
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 754
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 171
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 11454
+	}
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 2400
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 17
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 668
+	}
+}
+#Quelimane
+2059 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 68
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 222
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 34
+	}
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 102
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 85
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 445
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 6807
+	}
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 1371
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 17
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 668
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 51
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 240
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 51
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 977
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3429
+	}
+}
+#Uncolonized in 1836
+#Tete
+2054 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 68
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 85
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 342
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 4887
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 2057
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 51
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 274
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 68
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3326
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1714
+	}
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 51
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 240
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 51
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 4406
+	}
+}
+#Songo
+2055 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 308
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 274
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1371
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 308
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 18999
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 6859
+	}
+}
+#Zombo
+2056 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 68
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 68
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 342
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 68
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4869
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1440
+	}
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 85
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 445
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 6121
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 2057
+	}
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 20
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 41
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 102
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 34
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 1858
+	}
+}
+#Sofala
+2057 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 68
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 68
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 274
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 68
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 3978
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 1714
+	}
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 85
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 68
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 360
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 6927
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 102
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 102
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 480
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 102
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 5384
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4115
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 17
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 668
+	}
+}
+#Mossurize
+2058 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 240
+	}
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 257
+	}
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1200
+	}
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 240
+	}
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 14592
+	}
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 6859
+	}
+}
+#Mocambique Region
+#Ruled by Portugal 1836
+#Mocambique
+2060 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 188
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 34
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 411
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 34
+	}
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 720
+	}
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 171
+	}
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 9122
+	}
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 4115
+	}
+}
+#uncolonized in 1836
+#Angoche
+2061 = {
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 68
+	}
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 68
+	}
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 480
+	}
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 3360
+	}
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 6173
+	}
+	aristocrats = {
+		culture = makua
+		religion = sunni
+		size = 102
+	}
+	clergymen = {
+		culture = makua
+		religion = sunni
+		size = 102
+	}
+	artisans = {
+		culture = makua
+		religion = sunni
+		size = 514
+	}
+	soldiers = {
+		culture = makua
+		religion = sunni
+		size = 137
+	}
+	farmers = {
+		culture = makua
+		religion = sunni
+		size = 8745
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 51
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 2006
+	}
+}
+#Ibo
+2063 = {
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 342
+	}
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 342
+	}
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 1714
+	}
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 342
+	}
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 24692
+	}
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 6859
+	}
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 34
+	}
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1337
+	}
+}
+#Nampula
+2064 = {
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 171
+	}
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 171
+	}
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 857
+	}
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 205
+	}
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 15055
+	}
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 754
+	}
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 617
+	}
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 137
+	}
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 7201
+	}
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 4801
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5487
+	}
+}
+#Milange
+2065 = {
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 171
+	}
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 171
+	}
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 857
+	}
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 205
+	}
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 12654
+	}
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 2400
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 17
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 102
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 17
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 514
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1371
+	}
+}
+#Mataka
+2581 = {
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 308
+	}
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 274
+	}
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 1440
+	}
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 308
+	}
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 24418
+	}
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 1371
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 10288
+	}
+}

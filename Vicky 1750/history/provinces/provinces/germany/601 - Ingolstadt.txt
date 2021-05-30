@@ -1,0 +1,5 @@
+owner = SWE
+controller = SWE
+trade_goods = tobacco
+life_rating = 34
+colonial = 2

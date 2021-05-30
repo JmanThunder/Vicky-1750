@@ -1,0 +1,595 @@
+#Hijaz Region
+#under the "rule" of Egypt in 1836
+#Mecca
+1151 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 909
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 227
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 284
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 852
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 14775
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 37506
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 909
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 284
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 568
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 45746
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4546
+	}
+}
+#Jidda
+1152 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 795
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 397
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 10228
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 47791
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 454
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8239
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6819
+	}
+}
+#Medina
+1153 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 568
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 340
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3409
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 25231
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 454
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8183
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4546
+	}
+}
+#Tabuk
+1154 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 227
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4148
+	}
+}
+#Abha
+1155 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 227
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 681
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 10342
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 340
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 795
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 16593
+	}
+}
+#Badiyat al-Sham Region  #see Jordan.txt, Iraq.txt & Syria.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Kaf #now part of Saudi Arabia
+1156 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 454
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 10456
+	}
+}
+#Nejd Region
+#under the rule of Nejd in 1836
+#Riyadh
+1157 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 1136
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 738
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 3295
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 9092
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 51428
+	}
+}
+#Rafha
+1158 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 568
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8353
+	}
+}
+#Halaban
+1159 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 227
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 738
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 12558
+	}
+}
+#Hail
+1160 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 284
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6251
+	}
+}
+#Sharawah
+1161 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 227
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 738
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 12558
+	}
+}
+#Bahrain Region #see Gulf States.txt for balance of region  
+#under the rule of Nejd in 1836
+#Qatif
+1163 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 227
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 795
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 12558
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 454
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 340
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 1818
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 397
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 33357
+	}
+}
+#Hufuf
+1164 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 397
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 227
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1250
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 2500
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 20855
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 511
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 284
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 1477
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 284
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 26993
+	}
+}
+#Ahsa
+2586 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 113
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 454
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 56
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8751
+	}
+}

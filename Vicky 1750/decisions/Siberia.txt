@@ -1,0 +1,36 @@
+political_decisions = {
+	build_the_tsr = { #Trans-Siberian railroad- mirrors CNR, but offers choice of route: Irkutsk-Yakutia-Okhotsk or Irkutsk-Chita-Vladivostok(if owned)
+		picture = whistlestop_tour
+		potential = {
+			owns = 1082
+			owns = 1078
+			owns = 1075
+			owns = 1077
+			owns = 2686
+			owns = 1064
+			owns = 1059
+			early_railroad = 1
+			NOT = { has_country_flag = build_the_tsr }
+		}
+		allow = {
+			money = 75000
+			iron_railroad = 1
+			owns = 1082
+			owns = 1078
+			owns = 1075
+			owns = 1077
+			owns = 2686
+			owns = 1064
+			owns = 1059
+		}
+		effect = {
+			set_country_flag = build_the_tsr
+			treasury = -75000
+			1082 = { infrastructure = 3 }
+			1083 = { infrastructure = 3 }
+			1059 = { infrastructure = 3 }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

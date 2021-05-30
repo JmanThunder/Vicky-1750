@@ -1,0 +1,327 @@
+#Uganda Region  
+#uncolonized in 1836/dohanated by Buganda in 1836
+#Entebbe 
+2019 = {
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 2049
+	}
+	bureaucrats = {
+		culture = baganda
+		religion = animist
+		size = 75
+	}
+	officers = {
+		culture = baganda
+		religion = animist
+		size = 151
+	}
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 1100
+	}
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 4250
+	}
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 1062
+	}
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 82308
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 872
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 455
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2276
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 455
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 41476
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 15179
+	}
+}
+#Mbarara 
+2020 = {
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 265
+	}
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 151
+	}
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 607
+	}
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 151
+	}
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 7931
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 721
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 379
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1897
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 379
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 34570
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 18214
+	}
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 531
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 265
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1100
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 303
+	}
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 12978
+	}
+}
+#Masindi 
+2021 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 834
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 455
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2200
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 455
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 40072
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 13661
+	}
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 569
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 303
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1176
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 303
+	}
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 12826
+	}
+}
+#Kitgum 
+2022 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 569
+	}
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 303
+	}
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1176
+	}
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 303
+	}
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 21933
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 189
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 113
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 531
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 113
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 95741
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4553
+	}
+}
+#Jinja 
+2023 = {
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 417
+	}
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 227
+	}
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 872
+	}
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 227
+	}
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 10397
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1138
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 569
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2884
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 569
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 58287
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 9107
+	}
+}

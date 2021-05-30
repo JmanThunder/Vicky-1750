@@ -1,0 +1,4 @@
+owner = MEXcontroller = SPA
+trade_goods = wool
+life_rating = 38
+colonial = 2

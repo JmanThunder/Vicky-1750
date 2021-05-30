@@ -1,0 +1,25 @@
+#Iceland
+#Ruled by Denmark in 1836
+#Reykjavik
+252 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 35
+	}
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 141
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 1060
+	}
+	farmers = {
+		culture = icelandic
+		religion = protestant
+		size = 18558
+	}
+}

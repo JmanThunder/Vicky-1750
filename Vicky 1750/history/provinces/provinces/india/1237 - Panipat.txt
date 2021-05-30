@@ -1,0 +1,6 @@
+owner = PAT
+controller = PAT
+add_core = PAT
+add_core = MUG
+trade_goods = cotton
+life_rating = 35

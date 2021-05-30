@@ -1,0 +1,229 @@
+#Cuba
+#Ruled by Spain in 1836
+#Havana
+2209 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 200
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 172
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 186
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 2482
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 114
+	}
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 373
+	}
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 5740
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 2296
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 631
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 16430
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3444
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 287
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1435
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 21812
+	}
+}
+#Jagua
+2210 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 344
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 215
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 688
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 143
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 12384
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1148
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 86
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 6801
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14350
+	}
+}
+#Camaguey
+2211 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 258
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 229
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 2009
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 86
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 4879
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 861
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 172
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1262
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14350
+	}
+}
+#Santiago de Cuba
+2212 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 114
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 2009
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 86
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 5151
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 861
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 114
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1894
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 8036
+	}
+}

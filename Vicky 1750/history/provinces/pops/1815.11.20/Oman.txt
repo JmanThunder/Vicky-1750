@@ -1,0 +1,337 @@
+#Uman Region #see Trucial States.txt for balance of region  
+#under the rule of Oman in 1836  
+#Muscat   
+1166 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 343
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = shiite
+		size = 57
+	}
+	officers = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 228
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 2517
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 1430
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 228
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4234
+	}
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 2117
+	}
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 57
+	}
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 2117
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4577
+	}
+}
+#Suhar   
+1169 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 171
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 457
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 8297
+	}
+}
+#Nizwa   
+1170 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 171
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 572
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 10471
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 34
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 22
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2117
+	}
+}
+#Sur   
+1171 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 57
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 228
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 57
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 4120
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 228
+	}
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4234
+	}
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 114
+	}
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 57
+	}
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 2117
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2517
+	}
+}
+#Duqm   
+1172 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 171
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 171
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 457
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 8240
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2117
+	}
+}
+#Hadramaut Region #see Yemen.txt for balance of region  
+#under the rule of Oman in 1836  
+#Salalah   
+1174 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 148
+	}
+	bureaucrats = {
+		culture = bedouin
+		religion = shiite
+		size = 11
+	}
+	officers = {
+		culture = bedouin
+		religion = shiite
+		size = 11
+	}
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 171
+	}
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 457
+	}
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 8240
+	}
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 57
+	}
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 114
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2117
+	}
+}

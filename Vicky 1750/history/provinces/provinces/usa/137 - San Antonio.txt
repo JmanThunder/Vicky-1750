@@ -1,0 +1,6 @@
+owner = MEX
+controller = SPA
+add_core = MEX
+trade_goods = sulphur
+life_rating = 38
+fort = 1 #Remember the Alamo!

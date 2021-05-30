@@ -1,0 +1,6 @@
+owner = NEJ
+controller = EGY
+add_core = HDJ
+add_core = NEJ
+trade_goods = grain
+life_rating = 34

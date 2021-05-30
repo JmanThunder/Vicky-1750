@@ -1,0 +1,419 @@
+#Gold Coast Region 
+#uncolonized in 1836
+#Accra #Danish Tradepost in 1836  
+1907 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 1215
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 607
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 2477
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 654
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 45520
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 11216
+	}
+}
+#Cape Coast #British Tradepost in 1836 
+1908 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 420
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 233
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1121
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 233
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 16684
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 3738
+	}
+}
+#Sekondi #Dutch Tradepost in 1836  
+1909 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 794
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 420
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 2056
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 420
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 29957
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 7477
+	}
+}
+#Asante Region 
+#uncolonized in 1836/under the rule of Asante
+#Kumasi  
+1910 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 2804
+	}
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 140
+	}
+	officers = {
+		culture = akan
+		religion = animist
+		size = 280
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 1448
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 5842
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 1495
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 115250
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 18694
+	}
+}
+#Kintampo  
+1911 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 1355
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 701
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 2804
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 701
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 50521
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 13086
+	}
+}
+#Wa  
+1912 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 514
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 280
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1121
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 280
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 23975
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 607
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 327
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1589
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 327
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 28929
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5608
+	}
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 233
+	}
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 140
+	}
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 560
+	}
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 140
+	}
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 10141
+	}
+}
+#Tamale  
+1913 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 186
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 93
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 560
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 140
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 10235
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5608
+	}
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 327
+	}
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 186
+	}
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 701
+	}
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 186
+	}
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 9814
+	}
+}
+#Togo Region #see Togo.txt for balance of region
+#uncolonized in 1836
+#Ho  
+1915 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 420
+	}
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 233
+	}
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 934
+	}
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 233
+	}
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 16871
+	}
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 3738
+	}
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 654
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 327
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 1355
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 373
+	}
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 21592
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 9347
+	}
+}
+#uncolonized in 1836/under the rule of Asante
+#Yendi  
+1916 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 233
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 140
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 701
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 186
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 11824
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3738
+	}
+}

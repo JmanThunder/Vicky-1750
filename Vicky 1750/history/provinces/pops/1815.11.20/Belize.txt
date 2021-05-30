@@ -1,0 +1,30 @@
+#Guatemala Region
+#Ruled by Britain 1836
+#Belize
+2190 = {
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 88
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 53
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 353
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 35
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5839
+	}
+}

@@ -1,0 +1,68 @@
+#Hispanola Region #see Dohanican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince
+2213 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1097
+	}
+	bureaucrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 199
+	}
+	officers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 199
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1031
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 5189
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 5322
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 90883
+	}
+}
+#Cap Haitien
+2215 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 731
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 632
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 3393
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1463
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 61775
+	}
+}

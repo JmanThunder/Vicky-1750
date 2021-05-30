@@ -1,0 +1,5 @@
+owner = LFN
+controller = LFN
+add_core = LFN
+trade_goods = grain
+life_rating = 38

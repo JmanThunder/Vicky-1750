@@ -1,0 +1,245 @@
+#Cambodia Region
+#under the rule of Cambodia in 1836
+#Phnom Penh
+1364 = {
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 4560
+	}
+	bureaucrats = {
+		culture = khmer
+		religion = theravada
+		size = 342
+	}
+	officers = {
+		culture = khmer
+		religion = theravada
+		size = 456
+	}
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 2565
+	}
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 12540
+	}
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 9120
+	}
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 223497
+	}
+	slaves = {
+		culture = khmer
+		religion = theravada
+		size = 4560
+	}
+	clergymen = {
+		culture = han
+		religion = mahayana
+		size = 171
+	}
+	artisans = {
+		culture = han
+		religion = mahayana
+		size = 2850
+	}
+	farmers = {
+		culture = han
+		religion = mahayana
+		size = 6099
+	}
+}
+#Kampot
+1367 = {
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 1653
+	}
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 855
+	}
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 3990
+	}
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 2508
+	}
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 77862
+	}
+	clergymen = {
+		culture = han
+		religion = mahayana
+		size = 57
+	}
+	artisans = {
+		culture = han
+		religion = mahayana
+		size = 1140
+	}
+	farmers = {
+		culture = han
+		religion = mahayana
+		size = 3363
+	}
+}
+#Stongtreng
+1368 = {
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 684
+	}
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 399
+	}
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 2052
+	}
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 399
+	}
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 37506
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 114
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 114
+	}
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 285
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 57
+	}
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 6270
+	}
+}
+#under the rule of Siam in 1836
+#Battambang
+1366 = {
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 57
+	}
+	bureaucrats = {
+		culture = thai
+		religion = theravada
+		size = 114
+	}
+	officers = {
+		culture = thai
+		religion = theravada
+		size = 171
+	}
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 57
+	}
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 114
+	}
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 114
+	}
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 1653
+	}
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 1710
+	}
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 912
+	}
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 4560
+	}
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 969
+	}
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 89889
+	}
+	slaves = {
+		culture = khmer
+		religion = theravada
+		size = 2508
+	}
+	clergymen = {
+		culture = han
+		religion = mahayana
+		size = 114
+	}
+	artisans = {
+		culture = han
+		religion = mahayana
+		size = 1710
+	}
+	soldiers = {
+		culture = han
+		religion = mahayana
+		size = 114
+	}
+	farmers = {
+		culture = han
+		religion = mahayana
+		size = 4902
+	}
+}

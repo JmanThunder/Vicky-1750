@@ -1,0 +1,98 @@
+#Trinidad & Tobago Region
+#ruled by Britain 1836
+#Trinidad
+2237 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 24
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 14
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 24
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 481
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 395
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 72
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 722
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 96
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 8748
+	}
+}
+#Tobago
+2238 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 4
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 57
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 48
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 144
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 48
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 3277
+	}
+}

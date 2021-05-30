@@ -1,0 +1,539 @@
+#Ulster Region - 1846000
+#under rule of Britain 1836
+#Belfast
+254 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+	officers = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 1125
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1250
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 10000
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2000
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 87875
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5500
+	}
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 25250
+	}
+}
+#Londonderry
+255 = {
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 375
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1500
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 46625
+	}
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 5000
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 75250
+	}
+}
+#Armagh
+256 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2500
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 43000
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 20500
+	}
+}
+#Donegal 
+257 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 200
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 200
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 3003
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 400
+	}
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 82703
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 40
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 1802
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 13276
+	}
+}
+#Connaught Region - 1316000
+#under rule of Britain 1836
+#Galway
+258 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1001
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5607
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 101526
+	}
+}
+#Sligo
+259 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 400
+	}
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 200
+	}
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 881
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1602
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 7609
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 2002
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 141176
+	}
+}
+#Munster Region - 2244000 
+#under rule of Britain 1836
+#Cork 
+260 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 480
+	}
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 1602
+	}
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1602
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 150868
+	}
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 720
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 600
+	}
+	officers = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 400
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 4205
+	}
+}
+#Limerick
+261 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 881
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 3204
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 149386
+	}
+}
+#Waterford
+262 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 600
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5607
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 881
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 99924
+	}
+}
+#Leinster Region - 1836000 
+#under rule of Britain 1836
+#Dublin
+263 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 560
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 240
+	}
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 1602
+	}
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1802
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 2002
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 8010
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1602
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 123654
+	}
+}
+#Kildare
+264 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 280
+	}
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5206
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 1201
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 99724
+	}
+}
+#Wexford
+265 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 280
+	}
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 4405
+	}
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 881
+	}
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 83304
+	}
+}

@@ -1,0 +1,6 @@
+owner = LDA
+controller = LDA
+add_core = LDA
+add_core = LBA
+trade_goods = tropical_wood
+life_rating = 36

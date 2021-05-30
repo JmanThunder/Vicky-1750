@@ -1,0 +1,8592 @@
+#Alaska Region
+#ruled by Russia 1836
+#Sitka
+1 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 14
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 903
+	}
+}
+#Yakutat
+2 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Kenai
+3 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 283
+	}
+}
+#Dutch Harbor
+4 = {
+	aristocrats = {
+		culture = inuit
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = inuit
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 232
+	}
+}
+#Bethel
+5 = {
+	aristocrats = {
+		culture = inuit
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = inuit
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = inuit
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 116
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 116
+	}
+}
+#Fairbanks
+2599 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 232
+	}
+}
+#Cordova
+2630 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 185
+	}
+}
+#Unalakeet
+2631 = {
+	aristocrats = {
+		culture = inuit
+		religion = animist
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = inuit
+		religion = animist
+		size = 12
+	}
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 232
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 116
+	}
+}
+#Washington Region
+#claims by Britain and USA in 1836, de facto Native American rule
+#Seattle
+78 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+}
+#Spokane
+79 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Walla Walla
+80 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Oregon Region
+#claims by Britain and USA in 1836, de facto Native American rule
+#Portland
+81 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+}
+#Baker City
+82 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Klamath Falls
+83 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#California Region
+#ruled by Mexico 1836
+#San Francisco
+84 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 90
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Eureka
+85 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Sacramento
+86 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 15
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 619
+	}
+}
+#Monterey
+87 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 6
+	}
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 271
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Mariposa
+88 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Los Angeles
+89 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#San Diego
+90 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+# Bakersfield
+3290 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+# Stockton
+3291 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+# Redding
+3292 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 361
+	}
+}
+# San Bernardino
+3293 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+# San Jose
+3294 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 90
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+# Chico
+3295 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 36
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 361
+	}
+}
+#Idaho Region
+#claims by Britain and USA in 1836, de facto Native American rule
+#Boise
+91 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Coeur d'Alene
+92 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Pocatello
+93 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+}
+#Nevada Region
+#"ruled" by Mexico 1836/de facto under Native Control
+#Carson City
+94 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Elko
+95 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Las Vegas
+96 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Utah Region
+#"ruled" by Mexico 1836/de facto under Native Control
+#Salt Lake City
+97 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Loa
+98 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Moab
+99 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Arizona Region
+#"ruled" by Mexico 1836/de facto under Native Control
+#Phoenix
+100 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+}
+#Flagstaff
+101 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = pueblo
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = pueblo
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = pueblo
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = pueblo
+		religion = animist
+		size = 464
+	}
+}
+#ruled by Mexico 1836
+#Tucson
+102 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 116
+	}
+}
+#New Mexico Region
+#ruled by Mexico 1836
+#Santa Fe
+103 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 51
+	}
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 2315
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = pueblo
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = pueblo
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = pueblo
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = pueblo
+		religion = animist
+		size = 929
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Albuquerque
+104 = {
+	aristocrats = {
+		culture = pueblo
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = pueblo
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = pueblo
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = pueblo
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = pueblo
+		religion = animist
+		size = 1393
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 51
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 929
+	}
+}
+#Las Cruces
+105 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Colorado Region
+#claimed by both Mexico and the USA/de facto under Native Control
+#Denver
+106 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Grand Junction
+107 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Alamosa
+108 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Pueblo
+109 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Wyohang Region
+#"ruled" by the USA/de facto under Native Control
+#Cheyenne
+110 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Cody
+111 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 77
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1393
+	}
+}
+#Casper
+112 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Montana Region
+#"ruled" by the USA/de facto under Native Control
+#Bozeman
+113 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Missoula
+114 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Great Falls
+115 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+}
+#Billings
+116 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#North Dakota Region
+#"ruled" by the USA/de facto under Native Control
+#Bismarck
+117 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 929
+	}
+}
+#hanot
+118 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Dickinson
+119 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#South Dakota Region
+#"ruled" by the USA/de facto under Native Control
+#Sioux Falls
+120 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Dupree
+121 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 929
+	}
+}
+#Rapid City
+122 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Nebraska Region
+#"ruled" by the USA/de facto under Native Control
+#Omaha
+123 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Alliance
+124 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#North Platte
+125 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Kansas Region
+#"ruled" by the USA/de facto under Native Control
+#Topeka
+126 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Goodland
+127 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Wichita
+128 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Oklahoma Region
+#"ruled" by the USA/de facto under Native Control
+#Oklahoma City
+129 = {
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 412
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 51
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Tahlequah
+130 = {
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 825
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 103
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Okmulgee
+131 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Texas Region
+#ruled by Texas in 1836
+#Houston
+132 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 116
+	}
+}
+133 = {
+#Austin
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 116
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 116
+	}
+}
+#San Antonio
+137 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 116
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 116
+	}
+}
+#Laredo
+138 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 232
+	}
+}
+#"ruled" by Texas/de facto under Native Control
+#Dallas
+134 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Lubbock
+135 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#El Paso
+136 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 116
+	}
+}
+#Louisiana Region
+#ruled by USA in 1836
+#New Orleans
+139 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 87
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 48
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 253
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 97
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 5959
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 77
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 1777
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 18
+	}
+	clergymen = {
+		culture = afro_american
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 253
+	}
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 1299
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 3907
+	}
+}
+#Baton Rouge
+140 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 18
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 68
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1339
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 48
+	}
+	bureaucrats = {
+		culture = american
+		religion = catholic
+		size = 18
+	}
+	officers = {
+		culture = american
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 58
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 38
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 1355
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 48
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 3858
+	}
+}
+#Lake Charles
+141 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 68
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1376
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 28
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1914
+	}
+}
+#Shreveport
+142 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 28
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 77
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 48
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1777
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 38
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2295
+	}
+}
+#Arkansas Region
+#ruled by USA in 1836
+#Little Rock
+143 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 4
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 16
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 6
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 415
+	}
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 4
+	}
+	bureaucrats = {
+		culture = cherokee
+		religion = animist
+		size = 1
+	}
+	officers = {
+		culture = cherokee
+		religion = animist
+		size = 0
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 1
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 16
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 6
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 415
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 4
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 315
+	}
+}
+#Hot Springs
+144 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 6
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 16
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 305
+	}
+}
+#Fayetteville
+145 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 166
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 2
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 8
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 1
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 166
+	}
+}
+#Missouri Region
+#ruled by USA in 1836
+#Saint Louis
+146 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 138
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 29
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2783
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 0
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 25
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 32
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 79
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 23
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1868
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 1
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 107
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 214
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 17
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 317
+	}
+}
+#Joplin
+147 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 29
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 544
+	}
+}
+#Malden
+148 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 217
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 35
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 529
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 335
+	}
+}
+#Jefferson City
+149 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 35
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 639
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 23
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 520
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 17
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 317
+	}
+}
+#Kansas City
+150 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 46
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 879
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 26
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 541
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 4
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 105
+	}
+}
+#Iowa Region
+#ruled by the USA/parts de facto under Native Control
+#Des Moines
+151 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Oskaloosa
+152 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Cedar Rapids
+153 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Sioux City
+154 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 929
+	}
+}
+#hannesota Region
+#"ruled" by the USA/de facto under Native Control
+#hanneapolis
+155 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Granite Falls
+156 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 929
+	}
+}
+#Moorhead
+157 = {
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = dakota
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = dakota
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 464
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Duluth
+158 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Wisconsin Region
+#ruled by the USA/parts under de facto under Native Control
+#Milwaukee
+159 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Eau Claire
+160 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Green Bay
+161 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Madison
+162 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Illinois Region
+#ruled by the USA
+#Chicago
+163 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 20
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 158
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 33
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2961
+	}
+}
+#Rockford
+164 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 40
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 9
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 756
+	}
+}
+#Champaign
+165 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 33
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 7
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 620
+	}
+}
+#Peoria
+166 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 92
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 18
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1723
+	}
+}
+#Springfield
+167 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 22
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 9
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 33
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 7
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 596
+	}
+}
+#Carbondale
+168 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 7
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 12
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1101
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 64
+	}
+}
+#Indiana Region
+#ruled by the USA
+#Indianapolis
+169 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 35
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 19
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 48
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 414
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 84
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 8321
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 9
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 32
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 605
+	}
+}
+#Evansville
+170 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 297
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 5561
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 19
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 236
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 6
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 120
+	}
+}
+#South Bend
+171 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 6
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 71
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 16
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1331
+	}
+}
+#Fort Wayne
+172 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 29
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 207
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 41
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3867
+	}
+}
+#Michigan Region
+#ruled by the USA/parts under defacto native Control
+#Detroit
+173 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 4
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 41
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 781
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 6
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 85
+	}
+}
+#Grand Rapids
+174 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 13
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 3
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 257
+	}
+}
+#Saginaw
+175 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 9
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 171
+	}
+}
+#Traverse City
+176 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 85
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 7
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 464
+	}
+}
+#Marquette
+177 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 0
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 0
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 42
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Ohio Region
+#ruled by the USA
+#Cleveland
+178 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 105
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 679
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 135
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 12668
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 105
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1993
+	}
+}
+#Columbus
+179 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 188
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 82
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 112
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 754
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 150
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 13822
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 14
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 105
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 1993
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 22
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 150
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2846
+	}
+}
+#Sandusky
+180 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 75
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 558
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 112
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 10425
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 22
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 150
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 2846
+	}
+}
+#Dayton
+181 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 97
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 739
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 150
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 13808
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 14
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 105
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 1993
+	}
+}
+#Cincinnati
+182 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 112
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 799
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 158
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 14933
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 14
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 120
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 2279
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 22
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 150
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2846
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 14
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 60
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 830
+	}
+}
+#Marietta
+183 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 67
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 588
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 120
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 10999
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 4
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 271
+	}
+}
+#Kentucky Region
+#ruled by the USA
+#Louisville
+184 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 455
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 97
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 8507
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 162
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 3047
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 162
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 47
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 227
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 130
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 5297
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 455
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 455
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 6193
+	}
+}
+#Lexington
+185 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 80
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 47
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 227
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1532
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 309
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 28507
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 293
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 80
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 80
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 113
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 618
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 227
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 14228
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 520
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 553
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 6682
+	}
+}
+#Bowling Green
+186 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 47
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 423
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 80
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 7921
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 162
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 31
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 342
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 146
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 7790
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 455
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 455
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 6193
+	}
+}
+#Paducah
+187 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 47
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 162
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 31
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3014
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 178
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 64
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 357
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 146
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 8377
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 31
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 227
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 64
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 4889
+	}
+}
+#Tennessee Region
+#ruled by the USA
+#Nashville
+188 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 88
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 21
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 121
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 800
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 155
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 12692
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 422
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 132
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 66
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 222
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1379
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 889
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 20469
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 55
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 377
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 143
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 6096
+	}
+}
+#Memphis
+189 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 177
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 32
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2880
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 199
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 66
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 355
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 132
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 6808
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 155
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 43
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 3336
+	}
+}
+#Knoxville
+190 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 155
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 32
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2458
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 121
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 32
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 211
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 99
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3982
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 111
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2080
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 32
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 222
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 155
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 3148
+	}
+}
+#Chattanooga
+191 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 177
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 32
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2880
+	}
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 121
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 43
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 366
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 88
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 4894
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 111
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2080
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 155
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 177
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2313
+	}
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 10
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 21
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 43
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 10
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 711
+	}
+}
+#Mississippi Region
+#ruled by the USA
+#Jackson
+192 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 82
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 31
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 15
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 27
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 257
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 62
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3136
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 46
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2760
+	}
+}
+#Vicksburg
+193 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 54
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 171
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 39
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1458
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 39
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2142
+	}
+}
+#Biloxi
+194 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 39
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 124
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 31
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1200
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 23
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1532
+	}
+}
+#Alabama Region
+#ruled by the USA
+#Montgomery
+195 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 89
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 41
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 20
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 32
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 195
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 237
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 4268
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 216
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 53
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2790
+	}
+}
+#Tuscaloosa
+196 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 71
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 20
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 130
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 50
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2825
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 68
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1816
+	}
+}
+#Mobile
+197 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 53
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 71
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1605
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 216
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 35
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2095
+	}
+}
+#Florida Region
+#ruled by the USA
+#Tallahassee
+198 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 51
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 12
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 12
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 25
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 90
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 1832
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 41
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2013
+	}
+}
+#St Augustine
+199 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 77
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 25
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 167
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 64
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3794
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 41
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 5
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2013
+	}
+}
+#Tampa
+200 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 51
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 929
+	}
+}
+#Georgia Region
+#ruled by the USA
+#Atlanta
+201 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 365
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 194
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 72
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 109
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 644
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 267
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 14509
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 267
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10915
+	}
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 23
+	}
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 23
+	}
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 72
+	}
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 11
+	}
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 1351
+	}
+}
+#Valdosta
+202 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 72
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 23
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 133
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 60
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 3118
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 6
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 35
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 4
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1900
+	}
+}
+#Savannah
+204 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 340
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 97
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 572
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 243
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 12877
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 231
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 11
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 9977
+	}
+}
+#Augusta
+2555 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 243
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 60
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 353
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 169
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 7942
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 6
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 157
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 4
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 6651
+	}
+}
+#South Carolina Region
+#ruled by the USA
+#Charleston
+205 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 661
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 135
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 856
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1559
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 16944
+	}
+
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 194
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 10
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 525
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 7
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 27533
+	}
+}
+#Columbia
+206 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 856
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 155
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 116
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 232
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1305
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1559
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 28527
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 389
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 33110
+	}
+}
+#North Carolina Region
+#ruled by the USA
+#Greenville
+207 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 332
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 116
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 587
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 213
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 13625
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 253
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 37
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 5951
+	}
+}
+#Raleigh
+208 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 587
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 312
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 156
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 175
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 899
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 312
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 20359
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 37
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 351
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 77
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 7360
+	}
+}
+#Charlotte
+209 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 391
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 116
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 587
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 273
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 13507
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 429
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 11275
+	}
+}
+#Wilhangton
+210 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 606
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 175
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 899
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 371
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 20653
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 391
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 13665
+	}
+}
+#Asheville
+2556 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 468
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 156
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1055
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 292
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 19165
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 37
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 391
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 116
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 7281
+	}
+}
+#Virginia Region
+#ruled by the USA
+#Richmond
+211 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 956
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 398
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 199
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 298
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1835
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1595
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 41080
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 179
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 1116
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 896
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 22345
+	}
+}
+#Manassas
+212 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 159
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 199
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 119
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 4268
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 58
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 437
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 497
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 7781
+	}
+}
+#Fredericksburg
+213 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 338
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 98
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 477
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 217
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 10832
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 58
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 517
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 318
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10274
+	}
+}
+#Norfolk
+214 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 98
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 139
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 58
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2912
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 179
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 78
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 398
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 139
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 8778
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 398
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 179
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 8159
+	}
+}
+#Staunton
+215 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 159
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 258
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 119
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 5805
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 278
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 199
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 5106
+	}
+}
+#Roanoke
+216 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 179
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 119
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 517
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 238
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 11710
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 18
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 517
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 38
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10593
+	}
+}
+#became West Virginia in 1863
+#Wheeling
+217 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 115
+	}
+	
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 115
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 290
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 101
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 6997
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 42
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 115
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 2104
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 290
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 826
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 4645
+	}
+}
+#Huntington
+218 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 115
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 290
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 101
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 6417
+	}
+	aristocrats = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 72
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 1581
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 290
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1407
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 4064
+	}
+}
+#Maryland Region
+#ruled by the USA
+#Baltimore
+219 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 452
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 215
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 106
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 193
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 8615
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 3187
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 430
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 10122
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 193
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 1119
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1613
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 19470
+	}
+}
+#Washington
+220 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 408
+	}
+	
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 343
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 128
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 687
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 387
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15615
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 171
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 1119
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1635
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 22399
+	}
+}
+#Hagerstown
+221 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 128
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 278
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 128
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 6310
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 257
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2281
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 5168
+	}
+}
+#Delaware Region  
+#ruled by the USA
+#Dover
+222 = {
+	aristocrats = {
+		culture = american
+		religion = protestant
+		size = 70
+	}
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 22
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 9
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 95
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 624
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 119
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 11560
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 46
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 287
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 4954
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 480
+	}
+}
+#Pennsylvania Region  
+#ruled by the USA
+#Philadelphia
+223 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 1086
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 180
+	}
+	capitalists = {
+		culture = american
+		religion = protestant
+		size = 14
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 331
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 35
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 724
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 6039
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 446
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1207
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 40435
+	}
+	bureaucrats = {
+		culture = american
+		religion = catholic
+		size = 44
+	}
+	officers = {
+		culture = american
+		religion = catholic
+		size = 44
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 74
+	}
+	clerks = {
+		culture = american
+		religion = catholic
+		size = 2
+	}
+	craftsmen = {
+		culture = american
+		religion = catholic
+		size = 59
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 1234
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 105
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 9300
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 3019
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1780
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 29
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 1207
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 3593
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 5
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 294
+	}
+}
+#Scranton
+224 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 180
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1237
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 256
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 23086
+	}
+}
+#Williamsport
+225 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 195
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1297
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 256
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 24219
+	}
+}
+#Harrisburg
+226 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 331
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2204
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1207
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 40345
+	}
+}
+#Pittsburgh
+227 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 241
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1660
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 331
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 30983
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 542
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 105
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 10131
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 210
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 3940
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 29
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 90
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1690
+	}
+}
+#Erie
+228 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 120
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 814
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 164
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15204
+	}
+}
+#New Jersey Region  
+#ruled by the USA
+#Newark
+229 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 150
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1168
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 243
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 21799
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 150
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 2788
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 36
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 150
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2825
+	}
+}
+#Trenton
+230 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 150
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 52
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 112
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 791
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 169
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15905
+	}
+	bureaucrats = {
+		culture = american
+		religion = catholic
+		size = 17
+	}
+	officers = {
+		culture = american
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 112
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 2060
+	}
+}
+#Atlantic City
+231 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 112
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 827
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 169
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15468
+	}
+}
+#New York Region  
+#ruled by the USA
+#New York
+232 = {
+	capitalists = {
+		culture = american
+		religion = protestant
+		size = 59
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 325
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 59
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 3140
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4831
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4831
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4831
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4831
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4831
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 4046
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 965
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 45962
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 1931
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 23
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 422
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 35
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 2379
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1908
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 4
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 235
+	}
+}
+#Islip
+233 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 84
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 603
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 120
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 11269
+	}
+}
+#Albany
+234 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 869
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 241
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 301
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1509
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 965
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 34196
+	}
+	bureaucrats = {
+		culture = american
+		religion = catholic
+		size = 47
+	}
+	officers = {
+		culture = american
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 120
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 23
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 2162
+	}
+}
+#Binghamton
+235 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 301
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2125
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 965
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 39124
+	}
+}
+#Buffalo
+236 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 217
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1473
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 301
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 27480
+	}
+}
+#Rochester
+237 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 156
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1062
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 217
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 19821
+	}
+}
+#Syracuse
+238 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 253
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1835
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 965
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 33665
+	}
+}
+#Watertown
+239 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 108
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 700
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 144
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 13057
+	}
+}
+#Plattsburgh
+240 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 59
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 458
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 96
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 8563
+	}
+}
+#Connecticut Region  
+#ruled by the USA
+#Hartford
+241 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 133
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 66
+	}
+	capitalists = {
+		culture = american
+		religion = protestant
+		size = 12
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 491
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 43
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 491
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2735
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1793
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 59715
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 20
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 448
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1322
+	}
+}
+#Rhode Island Region  
+#ruled by the USA
+#Providence
+242 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 37
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	capitalists = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 134
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 56
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 578
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 3223
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 192
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15039
+	}
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 17
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 385
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 366
+	}
+}
+#Massachusetts Region  
+#ruled by the USA
+#Boston
+243 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 229
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 114
+	}
+	capitalists = {
+		culture = american
+		religion = protestant
+		size = 268
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 519
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 634
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 12514
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 7701
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 7701
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 7701
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 7701
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 6103
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1539
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 17055
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 37
+	}
+	clerks = {
+		culture = american
+		religion = catholic
+		size = 37
+	}
+	craftsmen = {
+		culture = american
+		religion = catholic
+		size = 845
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 2270
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 2214
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5390
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 711
+	}
+}
+#New Bedford
+244 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 173
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 17
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 229
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 865
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 229
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 20813
+	}
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 845
+	}
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 3042
+	}
+}
+#Pittsfield
+245 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 114
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 808
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 173
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 15076
+	}
+}
+#Vermont Region  
+#ruled by the USA
+#Montpelier
+246 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 99
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 59
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 401
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2533
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 521
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 46808
+	}
+	clergymen = {
+		culture = american
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = american
+		religion = catholic
+		size = 320
+	}
+	soldiers = {
+		culture = american
+		religion = catholic
+		size = 59
+	}
+	farmers = {
+		culture = american
+		religion = catholic
+		size = 6010
+	}
+}
+#New Hampshire Region  
+#ruled by the USA
+#Concord
+247 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 208
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 61
+	}
+	clerks = {
+		culture = american
+		religion = protestant
+		size = 19
+	}
+	craftsmen = {
+		culture = american
+		religion = protestant
+		size = 416
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 956
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 2434
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 1664
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 51790
+	}
+}
+#Maine Region  
+#ruled by the USA
+#Lewiston
+248 = {
+	bureaucrats = {
+		culture = american
+		religion = protestant
+		size = 110
+	}
+	officers = {
+		culture = american
+		religion = protestant
+		size = 62
+	}
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 285
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1902
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 379
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 35321
+	}
+}
+#Bangor
+249 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 158
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 1204
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 237
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 22505
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 189
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 46
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3535
+	}
+}
+#ruled by the UK
+#Caribou
+250 = {
+	clergymen = {
+		culture = american
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = american
+		religion = protestant
+		size = 129
+	}
+	soldiers = {
+		culture = american
+		religion = protestant
+		size = 25
+	}
+	farmers = {
+		culture = american
+		religion = protestant
+		size = 2387
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 103
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 12
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1922
+	}
+}

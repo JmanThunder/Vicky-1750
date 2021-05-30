@@ -1,0 +1,113 @@
+#Costa Rica Region
+#Ruled by Central America 1836
+#San Jose
+2201 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 216
+		militancy = 6
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 36
+		militancy = 6
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 18
+		militancy = 6
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 90
+		militancy = 6
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 468
+		militancy = 6
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 90
+		militancy = 6
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8442
+		militancy = 6
+	}
+}
+#Liberia
+2202 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 108
+		militancy = 6
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 36
+		militancy = 6
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 180
+		militancy = 6
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 36
+		militancy = 6
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3240
+		militancy = 6
+	}
+}
+#Limon
+2203 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 54
+		militancy = 6
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 36
+		militancy = 6
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 108
+		militancy = 6
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 18
+		militancy = 6
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1944
+		militancy = 6
+	}
+}

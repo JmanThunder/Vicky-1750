@@ -1,0 +1,377 @@
+#Quito Region
+#Ruled by Ecuador 1836
+#Quito
+2279 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 824
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 106
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 79
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 319
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 3138
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 585
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 11491
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 93
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 2181
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 585
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 21133
+	}
+}
+#Zamora
+2283 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 478
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 146
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 239
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 53
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3870
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 93
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 931
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 585
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 16904
+	}
+}
+#Tena
+2284 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 53
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 26
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 1396
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 53
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 13
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 984
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 26
+	}
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 39
+	}
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 79
+	}
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 13
+	}
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1436
+	}
+}
+#Guayaquil Region
+#Ruled by Ecuador 1836
+#Guayaquil
+2280 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 239
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 53
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 53
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 93
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 452
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 93
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 8059
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 26
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 957
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 585
+	}
+}
+#Esmereldas
+2281 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 239
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 93
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 186
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 39
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3617
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 399
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 79
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3205
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4256
+	}
+}
+#Loja
+2282 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 438
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 146
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 399
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 79
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 6916
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 665
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 133
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 12448
+	}
+}
+#Galapagos Region
+#Ruled by Ecuador 1836
+#Galapagos
+2285 = {
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 13
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 23
+	}
+}

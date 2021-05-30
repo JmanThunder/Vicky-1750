@@ -1,0 +1,780 @@
+#Angola : Angola
+#Ruled by Portugal in 1836
+#Luanda
+1999 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 146
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 48
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 489
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 48
+	}
+	aristocrats = {
+		culture = bakongo
+		religion = catholic
+		size = 48
+	}
+	clergymen = {
+		culture = bakongo
+		religion = catholic
+		size = 146
+	}
+	artisans = {
+		culture = bakongo
+		religion = catholic
+		size = 2937
+	}
+	soldiers = {
+		culture = bakongo
+		religion = catholic
+		size = 244
+	}
+	farmers = {
+		culture = bakongo
+		religion = catholic
+		size = 11307
+	}
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 489
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 97
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 5090
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 6853
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 7440
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2937
+	}
+}
+#uncolonized in 1836
+#2001 - Mbanza
+2001 = {
+	aristocrats = {
+		culture = bakongo
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = bakongo
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = bakongo
+		religion = catholic
+		size = 391
+	}
+	soldiers = {
+		culture = bakongo
+		religion = catholic
+		size = 97
+	}
+	farmers = {
+		culture = bakongo
+		religion = catholic
+		size = 7195
+	}
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 195
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 146
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 1076
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 195
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 13167
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 3916
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 195
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 146
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 685
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 195
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 12971
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3426
+	}
+}
+#Quibala
+2002 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 244
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1174
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 21489
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5874
+	}
+}
+#Congo Region #see Congo-Zaire.txt for balance of region 
+#uncolonized in 1836/tradepost for Portugal
+#Cabinda 
+2000 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 122
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 73
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 342
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 73
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 6241
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 4895
+	}
+	aristocrats = {
+		culture = bakongo
+		religion = catholic
+		size = 416
+	}
+	clergymen = {
+		culture = bakongo
+		religion = catholic
+		size = 220
+	}
+	artisans = {
+		culture = bakongo
+		religion = catholic
+		size = 881
+	}
+	soldiers = {
+		culture = bakongo
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = bakongo
+		religion = catholic
+		size = 14905
+	}
+}
+#Angola - Mbundu
+#Uncolonized in 1836
+#Benguela
+2003 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 293
+	}
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 293
+	}
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 1468
+	}
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 293
+	}
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 20363
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 5678
+	}
+}
+#Mocamedes
+2004 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 587
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 734
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 20803
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5678
+	}
+}
+#Huambo
+2005 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 587
+	}
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 538
+	}
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 2545
+	}
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 587
+	}
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 35880
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 10769
+	}
+}
+#Angola - Bihe
+#Uncolonized in 1836
+#Kuito
+2006 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 342
+	}
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 342
+	}
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 1762
+	}
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 391
+	}
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 26139
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 7342
+	}
+}
+#Mavinga
+2007 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 73
+	}
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 73
+	}
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 48
+	}
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 2349
+	}
+	slaves = {
+		culture = lunda
+		religion = animist
+		size = 1321
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 171
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 171
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 783
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 195
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 11209
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3132
+	}
+}
+#Ondjiva
+2008 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 29
+	}
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 58
+	}
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 73
+	}
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 29
+	}
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 2158
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 587
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4185
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1223
+	}
+}
+#Angola - Kwango
+#Uncolonized in 1836
+#Malanje
+2009 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 244
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4258
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1174
+	}
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 29
+	}
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 58
+	}
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 73
+	}
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 58
+	}
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 2129
+	}
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 587
+	}
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 24
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 97
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 24
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 1370
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 391
+	}
+}
+#Saurimo
+2010 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 244
+	}
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 244
+	}
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 1223
+	}
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 244
+	}
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 13706
+	}
+	slaves = {
+		culture = lunda
+		religion = animist
+		size = 7832
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 195
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 2790
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 783
+	}
+}
+#Kubanda
+2011 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 146
+	}
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 122
+	}
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 734
+	}
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 146
+	}
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 7954
+	}
+	slaves = {
+		culture = lunda
+		religion = animist
+		size = 4601
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 244
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3524
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1076
+	}
+}

@@ -1,0 +1,5 @@
+owner = SPA
+controller = SPA
+add_core = UCA
+trade_goods = timber
+life_rating = 38

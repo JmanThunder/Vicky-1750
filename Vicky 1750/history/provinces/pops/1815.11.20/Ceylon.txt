@@ -1,0 +1,432 @@
+#Ceylon #now Sri Lanka
+#Under rule of Britain 1836
+#Colombo
+1321 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 701
+	}
+	bureaucrats = {
+		culture = sinhala
+		religion = theravada
+		size = 131
+	}
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 657
+	}
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 701
+	}
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 657
+	}
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 59414
+	}
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 109
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = hindu
+		size = 87
+	}
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 109
+	}
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 657
+	}
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 87
+	}
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 8594
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 438
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 43
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 5612
+	}
+	clergymen = {
+		culture = sinhala
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = sinhala
+		religion = protestant
+		size = 657
+	}
+	soldiers = {
+		culture = sinhala
+		religion = protestant
+		size = 21
+	}
+	labourers = {
+		culture = sinhala
+		religion = protestant
+		size = 1052
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 21
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 65
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1315
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 21
+	}
+	labourers = {
+		culture = arab
+		religion = sunni
+		size = 2959
+	}
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 21
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 21
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 964
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 43
+	}
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 1666
+	}
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 21
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 43
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 43
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 964
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 87
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 591
+	}
+}
+#Jaffna
+1322 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 438
+	}
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 438
+	}
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 3507
+	}
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 438
+	}
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 37271
+	}
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 219
+	}
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 219
+	}
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 1753
+	}
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 438
+	}
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 18416
+	}
+}
+#Kandy
+1323 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 657
+	}
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 657
+	}
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 3507
+	}
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 657
+	}
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 60729
+	}
+}
+#Trincomalee
+1324 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 219
+	}
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 197
+	}
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 438
+	}
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 175
+	}
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 17385
+	}
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 219
+	}
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 219
+	}
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 438
+	}
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 219
+	}
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 19950
+	}
+	clergymen = {
+		culture = sinhala
+		religion = protestant
+		size = 21
+	}
+	artisans = {
+		culture = sinhala
+		religion = protestant
+		size = 219
+	}
+	soldiers = {
+		culture = sinhala
+		religion = protestant
+		size = 21
+	}
+	labourers = {
+		culture = sinhala
+		religion = protestant
+		size = 613
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 438
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 21
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 1293
+	}
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 21
+	}
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 219
+	}
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 43
+	}
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 591
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 21
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 43
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 657
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 21
+	}
+	labourers = {
+		culture = arab
+		religion = sunni
+		size = 1885
+	}
+}
+#Maldives #now independent
+1325 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = sunni
+		size = 73.6418
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = sunni
+		size = 73.6418
+	}
+	artisans = {
+		culture = asian_minor
+		religion = sunni
+		size = 750.1188
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = sunni
+		size = 111.319
+	}
+	farmers = {
+		culture = asian_minor
+		religion = sunni
+		size = 7996.1294
+	}
+}

@@ -1,0 +1,562 @@
+#Flanders Region
+#Brussels
+387 = {
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 13
+	}
+	clerks = {
+		culture = jewish
+		religion = judaism
+		size = 28
+	}
+	craftsmen = {
+		culture = jewish
+		religion = judaism
+		size = 290
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 828
+	}
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 872
+	}
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 115
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 464
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 945
+	}
+	capitalists = {
+		culture = dutch
+		religion = catholic
+		size = 28
+	}
+	clerks = {
+		culture = dutch
+		religion = catholic
+		size = 87
+	}
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 1745
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 3490
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1745
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 84808
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 174
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 261
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 930
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 145
+	}
+	capitalists = {
+		culture = french
+		religion = catholic
+		size = 87
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 174
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2909
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 5818
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1338
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 639
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 3287
+	}
+}
+#Bruges
+388 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1312
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 1283
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 11413
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1368
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 114736
+	}
+}
+#Ghent
+389 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1546
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 1546
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 14142
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1546
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 132365
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 4330
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 44
+	}
+}
+#Antwerp
+390 = {
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 20
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 1226
+	}
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 685
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 727
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 11319
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 914
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 56345
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 41
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2434
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 20
+	}
+}
+#Hasselt
+391 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 786
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 817
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 4236
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1330
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 75261
+	}
+}
+#Wallonia Region
+#Liege
+395 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 625
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 256
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 1029
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 625
+	}
+	capitalists = {
+		culture = french
+		religion = catholic
+		size = 109
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 146
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2942
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 6619
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 2942
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 45021
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 109
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 2206
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 92
+	}
+	labourers = {
+		culture = dutch
+		religion = catholic
+		size = 5756
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 54
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 2887
+	}
+	
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 183
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 201
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 956
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 808
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 17784
+	}
+}
+#Charleroi
+394 = {
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 67
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1005
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 82
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 6891
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 603
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 586
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2347
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 738
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 54139
+	}
+	
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 67
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 738
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 67
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 5901
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 469
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 418
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 67
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 1340
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1676
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 738
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 44314
+	}
+}
+#Namur
+392 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 576
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 576
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 104
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2101
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3151
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1154
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 48122
+	}
+}
+#Luxembourg Region
+#Arlon
+398 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 834
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 787
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3712
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 2042
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 72650
+	}
+}

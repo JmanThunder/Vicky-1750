@@ -1,0 +1,23 @@
+#Falkland Islands
+#Ruled by Britain 1836
+#Falkland Islands
+2131 = {
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+}
+#South Georgia
+2133 = {
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+}

@@ -1,0 +1,66 @@
+;;;;;;;;;;;;;x  
+active_serial_killer;Active Serial Killer;;;;;;;;;x
+active_serial_killer_desc;Some beast of a man (or woman) is murdering citizens in this province. Police have so far failed to apprehend him.;;;;;;;;;x
+anatole_boom;Anatolian Population Boom;;;;;;;;;x
+bohemian_partisans;Bohemian Partisans;;;;;;;;;;x
+bohemian_partisans_desc;Some local Czech-speaking people have taken up arms against the owners of this province, whom they view as occupiers.;;;;;;;;;;;x
+building_oheskewen_canal;Building the Oheskewen Canal;;;;;;;;;;;x                                                                                                                                                                                                                ,,,
+countrywide_famine;Countrywide Famine;;;;;;;;;;;x,,,
+countrywide_famine_desc;Because of recent events, natural or otherwise, our country is currently experiencing a famine. Many will die or leave for a new home. Many will demand action.;;;;;;;;;;;;;x
+countrywide_famine_immigrant_push;Countrywide Famine;;;;;;;;;;x,,,
+countrywide_famine_immigrant_push_desc;Because of the famine caused by Eyjafjallajokul's ash, people are more willing to seek greener pastures in the New World. Of those that remain, many will die and many more will demand action.;;;;;;;;;;;x 
+disaster_damage;Disaster Damage;;;;;;;;;;;;x
+disaster_damage_desc;This province is recovering from a recent natural disaster.;;;;;;;;;;x
+fighting_civil_war;Fighting in a Civil War;;;;;;;;;x
+fighting_civil_war_desc;This country is taking part in a civil war against its former rulers.;;;;;;;;;x
+garda_civica;La Garda Civica;;;;;;;;;;x
+garda_civica_desc;This police force is active in the country, restoring order.;;;;;;;;;x
+grand_army;Grand Army;;;;;;;;;;;;x
+grand_army_desc;Our country possesses an army which is the marvel of the entire world!;;;;;;;;;;;;x
+grand_navy;Grand Navy;;;;;;;;;;;;x
+grand_navy_desc;Our country possesses a navy which is the marvel of the entire world!;;;;;;;;;;;;x
+great_fire_happened;Recent Great Fire;;;;;;;;;;x
+great_fire_recovery;Great Fire Recovery;;;;;;;;;;x
+great_fire_recovery_desc;This province is still recovering from the recent devastating great fire which swept through one of its cities.;;;;;;;;;;x
+hate_NPL;Naples: We remember;;;;;;;;;x
+hate_ITA;Italy: We remember;;;;;;;;;x
+hungarian_pamphlets;Hungarian Liberal Pamphlets;;;;;;;;;x
+ignore_revolt;Latvian Revolt Ignored;;;;;;;;;;x
+jacin_ilmunt;Jacin Ilmunt;;;;;;;;;;;;x
+jacin_ilmunt_desc;The first to serve as First Councilor of the Republic of Aquitània, Ilmunt was famous for his popular support, the reforms undertaken by the government under his leadership, and his ability to inspire the entire country.;;;;;;;;;;;;x
+latvian_fomenters;Latvian Fomenters of Rebellion;;;;;;;;;;x
+latvian_fomenters_desc;Local Latvians in the province are actively organising and fomenting rebellion against Finnish rule.;;;;;;;;;;x
+leased;This province is leased to the current owner.;;;;;;;;;;x
+native_societies1;Rejection of Outsiders;;;;;;;;;;x                                                                                                                                                                                          ,,,
+native_societies1_desc;As survivors and original inhabitants of our land, we do not attract alien immigrants, nor do we want them.;;;;;;;;;;;;;;;;;x                                                                                 ,
+native_societies2;Sons to Defend Our Homes;;;;;;;;;;;x,,,
+native_societies2_desc;If we wish to survive among our hostile neighbours, we must have many sons to defend ourselves.;;;;;;;;;;;;;;x
+not_suppressed;Raid Result;;;;;;;;;;;;x
+not_suppressed_desc;Pretend this doesn't exist, it's a workaround for code limitations.;;;;;;;;;;;;x
+obbite;Obbite;;;;;;;;;x
+oheskewen_canal;Oheskewen Canal;;;;;;;;;;x
+oheskewen_canal_dividend;Dividends from the Oheskewen Canal;;;;;;;;;;x
+pier_moncani;Pier Moncani as First Minister;;;;;;;;;;;x
+pier_moncani_influence1;Pier Moncani's Influence;;;;;;;;;;x
+pier_moncani_influence2;Pier Moncani's Influence;;;;;;;;;;x
+pier_moncani_outrage;Public Outrage over Moncali's Death;;;;;;;;;;;x
+small_immigration_boom;Small Immigration Boom;;;;;;;;;x
+study_room_meetings;Study Room Meetings;;;;;;;;;x
+study_room_meetings_desc;Hungarian nobility are holding meetings at their estates to discuss and debate liberal theories. Word about these is spreading and contributing to a rising sense of nationalism among the upper classes. This will surely filter down to the lower classes, too.;;;;;;;;;;x
+suppressed;Raid Result;;;;;;;;;;;;x
+suppressed_desc;Pretend this doesn't exist, it's a workaround for code limitations.;;;;;;;;;;;;x
+suppress_revolt;Active Revolt Suppression;;;;;;;;;xcity_state;City-State;;;;;;;;;;;;x
+city_state_desc;With only one major city under our rule, our nation is easily overlooked.;;;;;;;;;;;;x
+small_nation;Small Nation;;;;;;;;;;;;x
+small_nation_desc;Our nation governs less territory than most.;;;;;;;;;;;;x
+large_nation;Large Nation;;;;;;;;;;;;x
+large_nation_desc;Ours is a large nation, a power to be reckoned with.;;;;;;;;;;;;x
+sprawling_empire;Sprawling Empire;;;;;;;;;;;;x
+sprawling_empire_desc;Ours is one of the largest nations in the world, a power to be reckoned with.;;;;;;;;;;;;x
+CANAL_4;Oheskewen Canal;;;;;;;;;;;;;x,,,
+confucian;Confucian;;;;;;;;;;x
+UNIT_BUILD_TIME_IW;$VAL$ days.;$VAL$ jours.;$VAL$ Tage.;;$VAL$ días.;;;;;;;;;x;
+DIPLOMACY_FILTER_OCEANIA;Volturnia;Océanie;Ozeanien;;Oceanía;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List §YNorth Amerigan§W countries;Afficher les pays §Yd'Amérique du nord§W;§YNordamerikanische§W Länder auflisten;;Mostrar países §Ynorteamericanos§W;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List §YSouth Amerigan§W countries;Afficher les pays §Yd'Amérique du sud§W;§YSüdamerikanische§W Länder auflisten;;Mostrar países §Ysudamericanos§W;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List countries in §YVolturnia§W;Afficher les pays §Yd'Océanie§W;Länder in §YOzeanien§W auflisten;;Mostrar países de §YOceania§W;;;;;;;;;x;;;;

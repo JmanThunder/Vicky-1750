@@ -1,0 +1,920 @@
+#------Estonia Governorate------
+#Reval 
+349 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 81
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 81
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 81
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 81
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 807
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 484
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 14520
+	}
+				
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 7
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 7
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 7
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 7
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 66
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 40
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1191
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 71
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 43
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 1279
+	}
+}
+#Wesenberg
+350 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 67
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 67
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 67
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 67
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 670
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 402
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 12055
+	}
+				
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 53
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 32
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 961
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 14
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 8
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 254
+	}
+}
+#Weissenstein
+3548 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 31
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 31
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 31
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 31
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 315
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 189
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 5662
+	}
+		
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 129
+	}
+}
+#Hapsal
+3547 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 47
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 47
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 47
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 47
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 467
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 280
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 8403
+	}
+	
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 6
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 109
+	}
+				
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 3
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 3
+	}
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 3
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 3
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 28
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 17
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 510
+	}
+}
+#------Livonia Governorate------
+#Pernau 
+351 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 57
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 57
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 57
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 57
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 569
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 341
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 10242
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 2
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 2
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 2
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 22
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 13
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 403
+	}
+				
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 7
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 4
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 120
+	}
+}
+#Dorpat 
+352 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 102
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 102
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 102
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 102
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 1019
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 611
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 18343
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 5
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 5
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 5
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 5
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 52
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 31
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 930
+	}
+				
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 8
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 8
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 8
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 8
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 85
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 51
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1522
+	}
+}
+#Arensburg
+353 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 36
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 36
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 36
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 36
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 355
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 213
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 6390
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 10
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 6
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 174
+	}
+}
+#Fellin
+3549 = {
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 60
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 60
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 60
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 60
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 597
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 358
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 10754
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 11
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 199
+	}
+}
+#Werro
+3550 = {
+	aristocrats = {
+		culture = latvian
+		religion = protestant
+		size = 2
+	}
+	bureaucrats = {
+		culture = latvian
+		religion = protestant
+		size = 2
+	}
+	officers = {
+		culture = latvian
+		religion = protestant
+		size = 2
+	}
+	clergymen = {
+		culture = latvian
+		religion = protestant
+		size = 2
+	}
+	artisans = {
+		culture = latvian
+		religion = protestant
+		size = 21
+	}
+	soldiers = {
+		culture = latvian
+		religion = protestant
+		size = 13
+	}
+	farmers = {
+		culture = latvian
+		religion = protestant
+		size = 378
+	}
+				
+	aristocrats = {
+		culture = estonian
+		religion = protestant
+		size = 56
+	}
+	bureaucrats = {
+		culture = estonian
+		religion = protestant
+		size = 56
+	}
+	officers = {
+		culture = estonian
+		religion = protestant
+		size = 56
+	}
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 56
+	}
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 556
+	}
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 333
+	}
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 10003
+	}
+				
+	aristocrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	bureaucrats = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	officers = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	clergymen = {
+		culture = german
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = german
+		religion = protestant
+		size = 12
+	}
+	soldiers = {
+		culture = german
+		religion = protestant
+		size = 7
+	}
+	farmers = {
+		culture = german
+		religion = protestant
+		size = 216
+	}
+				
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 1
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 8
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 151
+	}
+}

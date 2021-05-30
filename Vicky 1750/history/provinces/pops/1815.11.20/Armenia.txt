@@ -1,0 +1,733 @@
+#------Erivan Governorate------
+#Erivan
+1098 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 36
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 36
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 36
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 36
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 360
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 216
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 6473
+	}
+	
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 48
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 48
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 48
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 48
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 480
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 288
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 8642
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 5
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 5
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 5
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 5
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 50
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 30
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 908
+	}
+	
+	aristocrats = {
+		culture = assyrian
+		religion = coptic
+		size = 1
+	}
+	bureaucrats = {
+		culture = assyrian
+		religion = coptic
+		size = 1
+	}
+	officers = {
+		culture = assyrian
+		religion = coptic
+		size = 1
+	}
+	clergymen = {
+		culture = assyrian
+		religion = coptic
+		size = 1
+	}
+	artisans = {
+		culture = assyrian
+		religion = coptic
+		size = 14
+	}
+	soldiers = {
+		culture = assyrian
+		religion = coptic
+		size = 8
+	}
+	farmers = {
+		culture = assyrian
+		religion = coptic
+		size = 252
+	}
+}
+#Alexandropol
+1099 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 88
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 88
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 88
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 88
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 876
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 526
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 15769
+	}
+	
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 5
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 5
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 5
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 5
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 48
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 29
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 867
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 31
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 18
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 553
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 35
+	}
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 21
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 627
+	}
+}
+#Nakhichevan
+1101 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 34
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 34
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 34
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 34
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 338
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 203
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 6076
+	}
+	
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 72
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 72
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 72
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 72
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 720
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 432
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 12952
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 3
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 27
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 16
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 484
+	}
+}
+#Vagsharshapat
+3583 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 48
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 48
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 48
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 48
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 480
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 288
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 8639
+	}
+	
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 22
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 22
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 22
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 22
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 223
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 134
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 4015
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 6
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 6
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 6
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 6
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 60
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 36
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 1080
+	}
+}
+#Novo Bayazet
+3584 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 50
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 50
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 50
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 50
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 503
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 302
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9056
+	}
+	
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 21
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 21
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 21
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 21
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 215
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 129
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 3866
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 2
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 2
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 2
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 2
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 18
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 11
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 328
+	}
+}
+#------Elisavetpol Governorate------
+#Goris
+1100 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 44
+	}
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 44
+	}
+	officers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 44
+	}
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 44
+	}
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 439
+	}
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 263
+	}
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 7904
+	}
+	
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 39
+	}
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 39
+	}
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 39
+	}
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 39
+	}
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 392
+	}
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 235
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 7062
+	}
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 1
+	}
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 1
+	}
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 1
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 1
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 11
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 7
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 199
+	}
+}

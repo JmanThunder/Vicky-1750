@@ -1,0 +1,244 @@
+#Albania Region
+#under the rule of Ottoman Empire in 1836
+#Tirana
+849 = {
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 584
+	}
+	bureaucrats = {
+		culture = albanian
+		religion = sunni
+		size = 136
+	}
+	officers = {
+		culture = albanian
+		religion = sunni
+		size = 116
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 243
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 1246
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 779
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 21822
+	}
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 29
+	}
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 194
+	}
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 3671
+	}
+}
+#Shkoder
+850 = {
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 837
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 292
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 1480
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 779
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 26214
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 87
+	}
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 408
+	}
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 9630
+	}
+}
+#Durres
+851 = {
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 233
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 87
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 467
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 428
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 8209
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 116
+	}
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 2122
+	}
+}
+#Vlore
+852 = {
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 545
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 243
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 1265
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 272
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 21822
+	}
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 19
+	}
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 116
+	}
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 2122
+	}
+}
+#Epirus Region #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Gjirokaster #now part of Albania   
+853 = {
+	aristocrats = {
+		culture = albanian
+		religion = sunni
+		size = 292
+	}
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 97
+	}
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 272
+	}
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 165
+	}
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 8910
+	}
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 19
+	}
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 116
+	}
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 2590
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 48
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 428
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 3418
+	}
+}
